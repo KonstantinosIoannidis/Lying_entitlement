@@ -1,4 +1,4 @@
-﻿start_date,end_date,treatment,piece_rate,payment,duration,text_timer_click_count,correct,wrong,belief,die_roll,age,gender,marital,education,employment
+﻿start_date,end_date,treatment,piece_rate,payment,duration,click_count,correct,wrong,belief,die_roll,age,gender,marital,education,employment
 17/01/2022 15:04,17/01/2022 15:17,competition,0.05,1.85,809,17,3,14,197,4,60,Male,Married,High school graduate,Employed full time
 17/01/2022 15:04,17/01/2022 15:18,competition,0.2,2.9,870,10,6,1,5,4,19,Male,In a relationship,High school graduate,Student
 17/01/2022 15:04,17/01/2022 15:18,competition,0.2,3.3,885,166,7,4,18,6,20,Male,Single,High school graduate,Student
