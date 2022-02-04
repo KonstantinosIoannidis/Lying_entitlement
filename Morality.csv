@@ -1,0 +1,433 @@
+﻿start_date,end_date,treatment,piece_rate,payment,duration,text_timer_click_count,correct,wrong,belief,die_roll,age,gender,marital,education,employment
+17/01/2022 15:04,17/01/2022 15:17,competition,0.05,1.85,809,17,3,14,197,4,60,Male,Married,High school graduate,Employed full time
+17/01/2022 15:04,17/01/2022 15:18,competition,0.2,2.9,870,10,6,1,5,4,19,Male,In a relationship,High school graduate,Student
+17/01/2022 15:04,17/01/2022 15:18,competition,0.2,3.3,885,166,7,4,18,6,20,Male,Single,High school graduate,Student
+17/01/2022 15:04,17/01/2022 15:21,competition,0.2,3.5,1061,12,9,2,166,4,37,Female,Single,Technical/vocational training,Employed full time
+17/01/2022 15:07,17/01/2022 15:23,No_competition,0.05,2.05,934,43,7,3,99,4,23,Female,Single,High school graduate,Unemployed
+17/01/2022 15:07,17/01/2022 15:23,No_competition,0.2,1.7,947,58,0,13,38,4,25,Female,In a relationship,Technical/vocational training,Employed part time
+17/01/2022 15:07,17/01/2022 15:24,No_competition,0.05,2.15,970,9,5,3,68,6,21,Female,Single,High school graduate,Student
+17/01/2022 15:09,17/01/2022 15:21,No_competition,0.05,2.2,728,23,6,12,0,6,32,Female,Single,Technical/vocational training,Employed part time
+17/01/2022 15:09,17/01/2022 15:21,No_competition,0.2,3.3,747,58,8,10,105,4,21,Male,Single,High school graduate,Student
+17/01/2022 15:09,17/01/2022 15:24,No_competition,0.05,1.6,924,79,0,6,197,3,23,Male,Single,High school graduate,Student
+17/01/2022 15:09,17/01/2022 15:25,No_competition,0.2,3.3,972,15,8,6,160,4,20,Female,In a relationship,High school graduate,Student
+17/01/2022 15:09,17/01/2022 15:24,competition,0.05,1.9,871,85,0,15,30,6,34,Female,In a relationship,Bachelor degree,Unemployed
+17/01/2022 15:09,17/01/2022 15:21,competition,0.05,1.8,733,22,2,14,162,4,24,Male,In a relationship,Less than high school,Unemployed
+17/01/2022 15:09,17/01/2022 15:22,competition,0.2,3.3,784,10,7,2,18,6,55,Female,Married,Technical/vocational training,Employed full time
+17/01/2022 15:09,17/01/2022 15:22,competition,0.2,3.1,755,16,7,4,120,4,23,Female,In a relationship,Technical/vocational training,Employed full time
+17/01/2022 15:11,17/01/2022 15:25,competition,0.05,2.05,819,23,3,8,180,6,62,Female,Married,Technical/vocational training,Retired
+17/01/2022 15:11,17/01/2022 15:23,competition,0.2,3.2,744,24,8,8,175,3,26,Male,Single,Less than high school,Unemployed
+17/01/2022 15:11,17/01/2022 15:24,competition,0.2,3.6,787,19,10,6,184,3,27,Female,In a relationship,Bachelor degree,Employed full time
+17/01/2022 15:12,17/01/2022 15:27,No_competition,0.05,2.05,877,7,7,0,82,4,25,Male,Single,Master degree,Unemployed
+17/01/2022 15:12,17/01/2022 15:27,No_competition,0.05,2.3,928,19,10,2,20,5,20,Male,In a relationship,High school graduate,Employed full time
+17/01/2022 15:12,17/01/2022 15:30,No_competition,0.05,2.05,1095,13,5,5,50,5,23,Female,Single,Bachelor degree,Unemployed
+17/01/2022 15:12,17/01/2022 15:34,No_competition,0.05,1.6,1325,12,0,2,106,3,33,Female,Married,Bachelor degree,Employed full time
+17/01/2022 15:16,17/01/2022 15:32,competition,0.05,1.7,942,22,4,8,97,2,50,Male,In a relationship,High school graduate,Employed full time
+17/01/2022 15:16,17/01/2022 15:39,competition,0.2,3.1,1339,13,6,4,35,6,46,Male,Married,Bachelor degree,Employed full time
+17/01/2022 15:16,17/01/2022 15:31,competition,0.2,3,873,83,6,3,162,5,33,Female,Single,High school graduate,Employed part time
+17/01/2022 15:16,17/01/2022 15:33,competition,0.2,4.6,1031,22,14,4,35,5,20,Male,Single,High school graduate,Student
+17/01/2022 15:17,17/01/2022 15:29,No_competition,0.05,2.1,746,14,6,5,147,5,24,Female,In a relationship,Bachelor degree,Employed full time
+17/01/2022 15:17,17/01/2022 15:30,No_competition,0.2,3.7,762,15,10,3,50,4,27,Female,In a relationship,Master degree,Employed full time
+17/01/2022 15:17,17/01/2022 15:36,No_competition,0.2,3.1,1141,12,7,4,95,4,28,Female,Single,Bachelor degree,Employed part time
+17/01/2022 15:17,17/01/2022 15:41,No_competition,0.05,2.05,1465,33,5,2,105,5,25,Female,In a relationship,Master degree,Unemployed
+17/01/2022 15:18,17/01/2022 15:31,No_competition,0.05,2.2,805,16,8,3,70,5,19,Male,Single,High school graduate,Unemployed
+17/01/2022 15:18,17/01/2022 15:32,No_competition,0.05,1.7,858,24,4,9,170,2,33,Male,Single,Bachelor degree,Student
+17/01/2022 15:18,17/01/2022 15:34,No_competition,0.2,1.7,932,22,0,17,195,4,30,Female,Single,Bachelor degree,Employed part time
+17/01/2022 15:18,17/01/2022 15:36,No_competition,0.05,1.85,1074,20,3,1,100,4,26,Male,Married,Master degree,Employed full time
+17/01/2022 15:26,17/01/2022 15:41,competition,0.05,1.6,903,5,0,5,20,3,32,Female,Single,Bachelor degree,Employed full time
+17/01/2022 15:26,17/01/2022 15:44,competition,0.05,1.8,1072,22,2,7,100,4,28,Female,In a relationship,Master degree,Employed full time
+17/01/2022 15:26,17/01/2022 15:40,competition,0.2,2.8,824,98,7,3,100,1,25,Female,In a relationship,Doctorate degree,Employed full time
+17/01/2022 15:26,17/01/2022 15:38,competition,0.2,3.5,737,16,8,2,50,6,20,Female,Single,Technical/vocational training,Student
+17/01/2022 16:08,17/01/2022 16:26,competition,0.2,3.2,1051,15,8,1,50,3,24,Male,Single,Bachelor degree,Unemployed
+17/01/2022 16:08,17/01/2022 16:22,competition,0.2,3,827,61,8,9,35,1,23,Female,In a relationship,Master degree,Student
+17/01/2022 16:09,17/01/2022 16:45,competition,0.05,1.9,2205,8,2,27,132,5,23,Male,Single,Bachelor degree,Student
+17/01/2022 16:09,17/01/2022 16:25,competition,0.2,4.3,967,15,13,1,15,4,23,Female,In a relationship,High school graduate,Student
+18/01/2022 15:02,18/01/2022 15:14,No_competition,0.05,2.25,747,163,7,5,22,6,21,Male,Single,High school graduate,Student
+18/01/2022 15:02,18/01/2022 15:14,No_competition,0.05,2.2,761,20,8,4,80,5,21,Male,Single,High school graduate,Student
+18/01/2022 15:02,18/01/2022 15:16,No_competition,0.05,1.95,872,15,3,4,100,5,22,Non-binary / third gender,Single,Bachelor degree,Student
+18/01/2022 15:02,18/01/2022 15:16,No_competition,0.05,2.15,878,88,9,1,46,4,41,Female,Single,Bachelor degree,Employed part time
+18/01/2022 15:04,18/01/2022 15:18,competition,0.2,3.2,850,17,7,3,182,5,25,Male,In a relationship,High school graduate,Employed part time
+18/01/2022 15:04,18/01/2022 15:17,competition,0.2,3.3,800,19,7,11,53,6,50,Male,Single,Master degree,Employed full time
+18/01/2022 15:06,18/01/2022 15:19,No_competition,0.05,1.85,736,38,7,10,100,2,32,Male,In a relationship,Master degree,Employed full time
+18/01/2022 15:06,18/01/2022 15:19,No_competition,0.2,3.3,769,19,7,10,100,6,30,Female,Single,High school graduate,Unemployed
+18/01/2022 15:06,18/01/2022 15:19,No_competition,0.05,2.1,780,15,4,4,160,6,32,Male,Single,High school graduate,Unemployed
+18/01/2022 15:06,18/01/2022 15:22,No_competition,0.05,1.75,910,22,5,5,102,2,19,Non-binary / third gender,Single,High school graduate,Student
+18/01/2022 15:06,18/01/2022 15:22,No_competition,0.05,2.15,958,9,5,3,170,6,29,Male,Married,Bachelor degree,Employed full time
+18/01/2022 15:06,18/01/2022 15:19,competition,0.2,3.1,782,11,7,3,50,4,47,Female,Married,Technical/vocational training,Unemployed
+18/01/2022 15:06,18/01/2022 15:19,competition,0.2,3,765,38,8,4,5,1,22,Female,Single,Bachelor degree,Student
+18/01/2022 15:06,18/01/2022 15:19,competition,0.2,4.5,760,84,14,5,30,4,20,Female,Single,High school graduate,Student
+18/01/2022 15:08,18/01/2022 15:22,competition,0.05,2.05,852,11,3,7,60,6,37,Female,Married,Doctorate degree,Employed full time
+18/01/2022 15:08,18/01/2022 15:24,competition,0.2,2.9,982,8,6,2,82,4,24,Male,Single,Bachelor degree,Unemployed
+18/01/2022 15:08,18/01/2022 15:23,competition,0.2,3.9,936,37,12,2,69,2,19,Non-binary / third gender,Single,High school graduate,Employed part time
+18/01/2022 15:09,18/01/2022 15:21,No_competition,0.05,1.8,718,18,2,16,62,4,52,Female,Married,Technical/vocational training,Unemployed
+18/01/2022 15:09,18/01/2022 15:22,No_competition,0.05,2.1,762,19,8,7,128,4,20,Female,Single,High school graduate,Student
+18/01/2022 15:09,18/01/2022 15:22,No_competition,0.2,3.8,810,18,12,6,125,1,47,Female,In a relationship,Bachelor degree,Employed full time
+18/01/2022 15:09,18/01/2022 15:23,No_competition,0.05,2.25,849,25,7,3,70,6,26,Male,Single,Bachelor degree,Employed full time
+18/01/2022 15:09,18/01/2022 15:23,No_competition,0.05,2.2,819,10,10,0,96,4,40,Male,In a relationship,Bachelor degree,Unemployed
+18/01/2022 15:09,18/01/2022 15:23,No_competition,0.05,2.1,823,15,6,9,135,5,30,Female,In a relationship,High school graduate,Employed part time
+18/01/2022 15:09,18/01/2022 15:24,No_competition,0.05,1.85,860,13,7,2,30,2,20,Male,Single,High school graduate,Unemployed
+18/01/2022 15:10,18/01/2022 15:22,competition,0.05,2.1,774,37,4,8,61,6,23,Female,Single,Bachelor degree,Employed full time
+18/01/2022 15:10,18/01/2022 15:24,competition,0.2,3.2,863,14,7,6,25,5,35,Female,In a relationship,Doctorate degree,Employed full time
+18/01/2022 15:10,18/01/2022 15:23,competition,0.2,3.3,788,11,7,2,149,6,44,Female,Married,Master degree,Employed full time
+18/01/2022 15:10,18/01/2022 15:23,competition,0.2,3.2,778,12,8,3,35,3,35,Male,Single,Master degree,Employed full time
+18/01/2022 15:10,18/01/2022 15:22,competition,0.2,3.7,722,37,9,12,50,6,40,Female,Married,Master degree,Employed part time
+18/01/2022 15:12,18/01/2022 15:28,competition,0.05,1.5,950,42,2,4,100,1,28,Female,In a relationship,Bachelor degree,Employed full time
+18/01/2022 15:12,18/01/2022 15:31,competition,0.05,2.1,1099,61,4,7,48,6,26,Female,In a relationship,Technical/vocational training,Unemployed
+18/01/2022 15:12,18/01/2022 15:26,competition,0.2,3.3,811,18,8,3,106,4,21,Female,In a relationship,Bachelor degree,Employed part time
+18/01/2022 15:12,18/01/2022 15:26,competition,0.2,4.3,805,18,12,3,40,6,21,Male,In a relationship,High school graduate,Employed full time
+18/01/2022 16:01,18/01/2022 16:15,No_competition,0.05,2.1,800,78,6,2,50,5,22,Male,In a relationship,Bachelor degree,Student
+18/01/2022 16:01,18/01/2022 16:16,No_competition,0.2,2.7,907,34,5,6,100,4,35,Female,Single,Bachelor degree,Employed part time
+18/01/2022 16:02,18/01/2022 16:17,No_competition,0.05,1.8,944,27,6,5,140,2,54,Male,Divorced/Separated,High school graduate,Unemployed
+19/01/2022 15:06,19/01/2022 15:19,No_competition,0.05,1.9,816,42,8,3,55,2,20,Male,In a relationship,High school graduate,Student
+19/01/2022 15:06,19/01/2022 15:20,No_competition,0.2,2.6,871,13,4,7,151,5,38,Female,Married,Bachelor degree,Employed part time
+19/01/2022 15:06,19/01/2022 15:21,No_competition,0.05,2,893,16,10,7,83,2,28,Female,Single,Bachelor degree,Employed full time
+19/01/2022 15:06,19/01/2022 15:22,No_competition,0.05,2,994,16,10,6,70,2,39,Male,In a relationship,Doctorate degree,Employed full time
+19/01/2022 15:06,19/01/2022 15:21,competition,0.2,2.8,873,11,5,6,101,5,66,Male,Married,Technical/vocational training,Retired
+19/01/2022 15:06,19/01/2022 15:22,competition,0.2,3,929,14,6,2,150,5,25,Female,In a relationship,Bachelor degree,Student
+19/01/2022 15:06,19/01/2022 15:21,competition,0.2,3.2,871,20,7,3,75,5,21,Male,Single,High school graduate,Student
+19/01/2022 15:06,19/01/2022 15:20,competition,0.2,3.8,843,16,10,2,60,5,22,Male,Single,High school graduate,Student
+19/01/2022 15:07,19/01/2022 15:22,No_competition,0.05,1.9,873,16,6,9,30,3,43,Male,Single,Master degree,Employed full time
+19/01/2022 15:07,19/01/2022 15:24,No_competition,0.2,3.3,999,9,8,1,93,4,35,Female,In a relationship,Technical/vocational training,Unemployed
+19/01/2022 15:08,19/01/2022 15:22,competition,0.2,2.7,853,8,6,2,100,2,23,Non-binary / third gender,In a relationship,Bachelor degree,Student
+19/01/2022 15:08,19/01/2022 15:25,competition,0.2,2.8,992,11,7,2,80,1,40,Female,In a relationship,Master degree,Employed part time
+19/01/2022 15:08,19/01/2022 15:26,competition,0.2,3.9,1084,16,12,4,22,2,36,Male,Married,Technical/vocational training,Employed full time
+19/01/2022 15:08,19/01/2022 15:20,competition,0.2,4.2,746,31,12,1,15,5,20,Male,In a relationship,High school graduate,Student
+19/01/2022 15:09,19/01/2022 15:22,No_competition,0.05,2.4,740,21,12,5,75,5,25,Male,In a relationship,Master degree,Unemployed
+19/01/2022 15:09,19/01/2022 15:23,No_competition,0.2,3,813,52,6,6,79,5,20,Male,In a relationship,Bachelor degree,Student
+19/01/2022 15:09,19/01/2022 15:28,No_competition,0.2,2.6,1099,25,4,3,85,5,21,Female,Single,High school graduate,Student
+19/01/2022 15:09,19/01/2022 15:29,No_competition,0.05,1.75,1175,18,7,9,41,1,38,Male,Divorced/Separated,Bachelor degree,Employed full time
+19/01/2022 15:10,19/01/2022 15:23,competition,0.05,1.7,790,10,0,9,0,4,27,Female,In a relationship,Bachelor degree,Employed full time
+19/01/2022 15:10,19/01/2022 15:38,competition,0.05,1.7,1691,28,2,7,43,3,27,Male,Single,Bachelor degree,Employed part time
+19/01/2022 15:10,19/01/2022 15:30,competition,0.05,2.1,1191,18,4,9,40,6,35,Male,Married,Master degree,Employed full time
+19/01/2022 15:10,19/01/2022 15:23,competition,0.2,3.1,779,13,6,2,80,6,29,Male,Married,Bachelor degree,Employed full time
+19/01/2022 15:10,19/01/2022 15:26,competition,0.2,3,977,10,7,1,90,3,24,Female,In a relationship,Bachelor degree,Unemployed
+19/01/2022 15:11,19/01/2022 15:24,No_competition,0.05,2.35,737,13,9,3,108,6,22,Female,Single,Bachelor degree,Employed full time
+19/01/2022 15:11,19/01/2022 15:24,No_competition,0.05,1.9,775,17,6,8,70,3,36,Female,Married,Master degree,Employed full time
+19/01/2022 15:11,19/01/2022 15:25,No_competition,0.05,2.1,817,90,8,7,81,4,32,Male,In a relationship,Technical/vocational training,Employed full time
+19/01/2022 15:11,19/01/2022 15:29,No_competition,0.2,2.7,1078,13,4,5,158,6,20,Female,Single,High school graduate,Student
+19/01/2022 15:12,19/01/2022 15:25,competition,0.2,3.3,736,34,8,11,150,4,34,Male,In a relationship,Bachelor degree,Employed full time
+19/01/2022 15:13,19/01/2022 15:34,competition,0.05,1.6,1282,6,2,4,144,2,30,Female,Single,High school graduate,Employed full time
+19/01/2022 15:13,19/01/2022 15:26,competition,0.2,3.3,827,165,7,4,55,6,24,Female,Single,Bachelor degree,Employed part time
+19/01/2022 15:16,19/01/2022 15:31,competition,0.05,1.9,848,11,4,6,166,4,67,Female,Married,High school graduate,Retired
+19/01/2022 15:16,19/01/2022 15:29,competition,0.2,3.9,753,26,10,3,100,6,28,Male,In a relationship,Master degree,Employed full time
+19/01/2022 15:17,19/01/2022 15:33,competition,0.2,3.4,981,18,8,0,170,5,29,Female,Single,Bachelor degree,Unemployed
+19/01/2022 15:18,19/01/2022 15:37,competition,0.05,1.7,1165,14,0,11,8,4,43,Female,Married,Bachelor degree,Employed full time
+19/01/2022 15:21,19/01/2022 15:34,No_competition,0.2,2.9,815,15,6,6,73,4,24,Female,In a relationship,Master degree,Student
+19/01/2022 15:21,19/01/2022 15:35,No_competition,0.05,2.15,840,16,7,7,45,5,21,Male,Single,Bachelor degree,Employed part time
+19/01/2022 15:21,19/01/2022 15:36,No_competition,0.05,2.25,927,19,11,1,75,4,28,Female,In a relationship,Technical/vocational training,Employed full time
+19/01/2022 15:21,19/01/2022 15:37,No_competition,0.05,2.25,945,24,7,0,150,6,24,Male,Married,Bachelor degree,Employed full time
+20/01/2022 15:04,20/01/2022 15:17,competition,0.2,2.5,745,33,5,11,120,2,40,Female,Married,Master degree,Employed part time
+20/01/2022 15:04,20/01/2022 15:27,competition,0.2,2.8,1350,21,7,10,166,1,39,Male,Single,High school graduate,Employed full time
+20/01/2022 15:04,20/01/2022 15:17,competition,0.2,3.3,762,16,7,5,96,6,27,Female,In a relationship,Bachelor degree,Employed full time
+20/01/2022 15:04,20/01/2022 15:25,competition,0.2,3.6,1260,28,10,5,140,3,23,Female,Single,Bachelor degree,Employed full time
+20/01/2022 15:05,20/01/2022 15:18,No_competition,0.05,2.05,764,23,5,10,50,5,21,Male,Single,High school graduate,Employed full time
+20/01/2022 15:05,20/01/2022 15:19,No_competition,0.05,1.65,799,32,3,27,37,2,40,Male,Married,Master degree,Employed full time
+20/01/2022 15:05,20/01/2022 15:20,No_competition,0.05,2.25,865,76,7,2,80,6,33,Male,In a relationship,Bachelor degree,Unemployed
+20/01/2022 15:08,20/01/2022 15:21,No_competition,0.05,2.4,772,14,10,2,30,6,18,Non-binary / third gender,Single,High school graduate,Student
+20/01/2022 15:08,20/01/2022 15:23,No_competition,0.05,1.95,855,12,9,2,100,2,24,Male,In a relationship,Master degree,Employed full time
+20/01/2022 15:08,20/01/2022 15:23,No_competition,0.05,2.35,858,47,9,4,60,6,27,Female,In a relationship,High school graduate,Employed full time
+20/01/2022 15:08,20/01/2022 15:24,No_competition,0.05,1.75,953,13,1,11,39,4,46,Male,Divorced/Separated,Bachelor degree,Employed full time
+20/01/2022 15:09,20/01/2022 15:21,competition,0.2,2.6,756,13,5,6,199,3,28,Female,In a relationship,High school graduate,Employed full time
+20/01/2022 15:09,20/01/2022 15:25,competition,0.2,3.1,987,14,6,8,140,6,48,Male,Single,Bachelor degree,Unemployed
+20/01/2022 15:09,20/01/2022 15:29,competition,0.2,3.2,1221,32,7,4,65,5,36,Female,Married,Technical/vocational training,Unemployed
+20/01/2022 15:09,20/01/2022 15:23,competition,0.2,3.1,859,16,8,4,131,2,41,Female,Married,High school graduate,Unemployed
+20/01/2022 15:11,20/01/2022 15:24,No_competition,0.05,2.2,779,18,8,2,135,5,30,Male,In a relationship,Bachelor degree,Employed part time
+20/01/2022 15:11,20/01/2022 15:24,No_competition,0.05,2.25,805,19,11,4,100,4,22,Female,Single,High school graduate,Student
+20/01/2022 15:11,20/01/2022 15:24,No_competition,0.05,1.95,815,14,9,3,150,2,27,Female,In a relationship,Bachelor degree,Employed full time
+20/01/2022 15:11,20/01/2022 15:27,No_competition,0.2,2.6,981,15,5,4,129,3,55,Male,Married,High school graduate,Employed full time
+20/01/2022 15:12,20/01/2022 15:28,competition,0.05,1.65,974,7,1,6,170,3,49,Female,Married,High school graduate,Employed full time
+20/01/2022 15:12,20/01/2022 15:28,competition,0.05,1.85,968,8,3,4,115,4,38,Male,In a relationship,Technical/vocational training,Employed part time
+20/01/2022 15:12,20/01/2022 15:24,competition,0.2,2.9,729,14,6,5,132,4,31,Male,Married,Technical/vocational training,Employed full time
+20/01/2022 15:12,20/01/2022 15:24,competition,0.2,3.2,699,17,7,9,158,5,48,Female,Married,Bachelor degree,Employed part time
+20/01/2022 15:13,20/01/2022 15:26,No_competition,0.05,1.75,767,95,5,6,110,2,26,Female,In a relationship,Technical/vocational training,Employed full time
+20/01/2022 15:13,20/01/2022 15:27,No_competition,0.05,2.15,823,18,7,6,73,5,43,Female,Married,Bachelor degree,Employed full time
+20/01/2022 15:13,20/01/2022 15:30,No_competition,0.05,1.8,1018,10,4,5,23,3,25,Female,In a relationship,Bachelor degree,Employed full time
+20/01/2022 15:13,20/01/2022 15:32,No_competition,0.05,1.7,1125,13,0,10,15,4,29,Female,Single,Bachelor degree,Employed part time
+20/01/2022 15:14,20/01/2022 15:29,competition,0.05,1.6,906,58,0,10,10,3,34,Female,Single,Less than high school,Unemployed
+20/01/2022 15:15,20/01/2022 15:34,competition,0.05,1.6,1141,23,2,18,26,2,31,Female,Single,Bachelor degree,Employed part time
+20/01/2022 15:15,20/01/2022 15:32,competition,0.2,3.1,1025,39,7,3,100,4,28,Male,Single,Bachelor degree,Employed full time
+20/01/2022 15:15,20/01/2022 15:27,competition,0.2,3.5,774,13,8,3,100,6,43,Female,Married,High school graduate,Employed full time
+20/01/2022 15:23,20/01/2022 15:43,competition,0.05,1.85,1167,10,1,9,191,5,34,Female,Married,High school graduate,Employed full time
+20/01/2022 15:24,20/01/2022 15:37,No_competition,0.05,1.9,741,102,4,6,107,4,19,Male,Single,High school graduate,Student
+20/01/2022 15:24,20/01/2022 15:37,No_competition,0.05,2.3,752,15,8,3,25,6,26,Female,In a relationship,Master degree,Employed full time
+20/01/2022 15:24,20/01/2022 15:37,No_competition,0.2,3.4,772,12,8,2,123,5,19,Male,Single,High school graduate,Student
+20/01/2022 15:24,20/01/2022 15:37,No_competition,0.05,1.75,779,8,5,2,117,2,20,Female,Single,Bachelor degree,Student
+20/01/2022 15:24,20/01/2022 15:38,competition,0.05,1.75,896,91,1,5,165,4,32,Male,Single,High school graduate,Employed part time
+20/01/2022 15:24,20/01/2022 15:36,competition,0.2,2.9,762,17,6,11,120,4,32,Male,Married,Bachelor degree,Employed full time
+20/01/2022 15:24,20/01/2022 15:38,competition,0.2,3.5,871,16,9,7,50,4,38,Non-binary / third gender,In a relationship,Master degree,Employed full time
+20/01/2022 16:00,20/01/2022 16:14,competition,0.2,3.1,812,175,7,2,60,4,19,Male,Single,High school graduate,Employed part time
+20/01/2022 16:01,20/01/2022 16:13,competition,0.2,3.4,766,24,8,10,160,5,26,Female,Single,Master degree,Employed full time
+20/01/2022 16:03,20/01/2022 16:18,competition,0.2,3.1,906,14,7,2,100,4,30,Male,Single,Bachelor degree,Unemployed
+20/01/2022 16:04,20/01/2022 16:25,competition,0.2,2.7,1277,10,5,3,39,4,40,Female,Divorced/Separated,Bachelor degree,Employed full time
+21/01/2022 15:05,21/01/2022 15:23,competition,0.05,2.1,1023,23,4,4,3,6,28,Female,Married,Bachelor degree,Unemployed
+21/01/2022 15:05,21/01/2022 15:19,competition,0.2,3.3,791,17,7,2,129,6,21,Male,Single,Bachelor degree,Student
+21/01/2022 15:05,21/01/2022 15:21,competition,0.2,3.3,914,35,8,3,140,4,22,Female,In a relationship,Bachelor degree,Unemployed
+21/01/2022 15:05,21/01/2022 15:18,competition,0.2,3,777,12,8,4,50,1,64,Female,Married,Technical/vocational training,Unemployed
+21/01/2022 15:06,21/01/2022 15:19,No_competition,0.05,2.05,796,11,7,4,100,4,35,Female,Single,Bachelor degree,Employed full time
+21/01/2022 15:06,21/01/2022 15:20,No_competition,0.2,3.4,888,19,8,3,111,5,20,Male,In a relationship,Bachelor degree,Student
+21/01/2022 15:06,21/01/2022 15:30,No_competition,0.05,1.85,1492,12,3,6,179,4,27,Male,In a relationship,Master degree,Employed part time
+21/01/2022 15:08,21/01/2022 15:20,No_competition,0.05,2.2,755,40,6,12,120,6,34,Male,In a relationship,Bachelor degree,Employed part time
+21/01/2022 15:08,21/01/2022 15:21,No_competition,0.05,2.45,764,22,11,3,182,6,23,Female,Single,Bachelor degree,Employed part time
+21/01/2022 15:08,21/01/2022 15:22,No_competition,0.05,2.2,820,54,8,5,116,5,28,Female,Single,High school graduate,Employed full time
+21/01/2022 15:08,21/01/2022 15:22,No_competition,0.05,1.95,854,25,5,6,114,4,49,Male,Married,Technical/vocational training,Employed full time
+21/01/2022 15:08,21/01/2022 15:31,No_competition,0.2,2.7,1364,90,6,10,165,2,28,Non-binary / third gender,Single,Master degree,Employed full time
+21/01/2022 15:09,21/01/2022 15:23,competition,0.05,1.9,842,13,2,9,95,5,20,Female,Single,Bachelor degree,Student
+21/01/2022 15:09,21/01/2022 15:25,competition,0.05,1.7,1001,13,4,9,49,2,73,Male,Married,Bachelor degree,Employed part time
+21/01/2022 15:09,21/01/2022 15:22,competition,0.2,3.3,787,111,7,5,101,6,25,Female,Single,Master degree,Employed full time
+21/01/2022 15:09,21/01/2022 15:22,competition,0.2,4,797,16,11,2,55,5,24,Female,In a relationship,Bachelor degree,Employed full time
+21/01/2022 15:10,21/01/2022 15:23,No_competition,0.05,1.65,772,40,3,15,180,2,27,Male,In a relationship,Bachelor degree,Employed full time
+21/01/2022 15:10,21/01/2022 15:23,No_competition,0.05,2.1,798,94,4,4,100,6,23,Male,In a relationship,Bachelor degree,Employed full time
+21/01/2022 15:10,21/01/2022 15:26,No_competition,0.05,1.7,940,24,0,6,90,4,21,Female,Single,High school graduate,Student
+21/01/2022 15:10,21/01/2022 15:26,No_competition,0.05,1.95,965,14,7,4,79,3,31,Female,In a relationship,Technical/vocational training,Unemployed
+21/01/2022 15:10,21/01/2022 15:27,competition,0.05,2,1025,115,2,5,132,6,20,Female,Single,High school graduate,Employed part time
+21/01/2022 15:10,21/01/2022 15:27,competition,0.05,1.9,1035,39,4,6,129,4,30,Female,In a relationship,Bachelor degree,Employed full time
+21/01/2022 15:10,21/01/2022 15:24,competition,0.05,2.1,836,11,4,6,131,6,29,Female,In a relationship,Bachelor degree,Unemployed
+21/01/2022 15:10,21/01/2022 15:24,competition,0.2,3.1,870,11,7,1,59,4,37,Female,Married,Master degree,Employed part time
+21/01/2022 15:15,21/01/2022 15:27,No_competition,0.05,2.2,745,12,8,2,62,5,24,Male,Single,High school graduate,Student
+21/01/2022 15:15,21/01/2022 15:29,No_competition,0.05,2.2,829,57,8,4,68,5,21,Male,In a relationship,High school graduate,Student
+21/01/2022 15:15,21/01/2022 15:29,No_competition,0.05,1.7,855,20,2,12,143,3,66,Male,Divorced/Separated,Bachelor degree,Employed full time
+21/01/2022 15:15,21/01/2022 15:31,No_competition,0.05,1.95,956,49,5,2,55,4,29,Male,Married,Bachelor degree,Unemployed
+21/01/2022 15:16,21/01/2022 15:31,competition,0.05,1.75,918,11,3,5,120,3,57,Male,Single,Doctorate degree,Employed full time
+21/01/2022 15:16,21/01/2022 15:33,competition,0.2,2.8,1027,11,6,4,83,3,25,Female,In a relationship,Technical/vocational training,Employed full time
+21/01/2022 15:16,21/01/2022 15:31,competition,0.2,3.6,918,14,9,4,155,5,29,Female,In a relationship,Doctorate degree,Employed full time
+21/01/2022 15:18,21/01/2022 15:34,competition,0.2,2.9,945,8,6,2,22,4,37,Female,Married,Master degree,Employed part time
+21/01/2022 15:18,21/01/2022 15:32,competition,0.2,2.9,807,13,6,6,166,4,34,Female,Single,Bachelor degree,Employed full time
+21/01/2022 15:18,21/01/2022 15:31,competition,0.2,3.6,799,14,9,4,16,5,21,Male,In a relationship,High school graduate,Student
+21/01/2022 15:18,21/01/2022 15:32,competition,0.2,3.6,847,19,10,7,95,3,39,Female,In a relationship,Bachelor degree,Employed part time
+21/01/2022 15:24,21/01/2022 15:37,No_competition,0.05,2.25,794,15,9,1,66,5,22,Male,In a relationship,High school graduate,Employed full time
+21/01/2022 15:24,21/01/2022 15:37,No_competition,0.05,1.85,807,9,7,2,188,2,50,Female,Divorced/Separated,Bachelor degree,Employed part time
+21/01/2022 15:24,21/01/2022 15:39,No_competition,0.05,2.2,888,11,8,1,119,5,24,Female,Single,Bachelor degree,Unemployed
+21/01/2022 15:24,21/01/2022 15:40,No_competition,0.2,2.4,944,25,3,10,80,5,26,Female,Single,Technical/vocational training,Employed part time
+21/01/2022 16:05,21/01/2022 16:17,No_competition,0.05,2.2,735,39,8,6,172,5,41,Female,Married,Master degree,Employed part time
+21/01/2022 16:06,21/01/2022 16:20,No_competition,0.05,2.25,812,16,11,3,20,4,25,Male,In a relationship,Master degree,Employed full time
+21/01/2022 16:07,21/01/2022 16:21,No_competition,0.05,2.1,869,13,8,4,39,4,51,Female,Divorced/Separated,Technical/vocational training,Retired
+21/01/2022 16:08,21/01/2022 16:24,No_competition,0.2,2.4,975,10,5,5,122,1,28,Male,Single,Bachelor degree,Employed full time
+24/01/2022 15:02,24/01/2022 15:15,No_competition,0.05,2.35,763,18,9,3,100,6,20,Male,In a relationship,Bachelor degree,Student
+24/01/2022 15:02,24/01/2022 15:15,No_competition,0.05,2.2,777,48,6,2,84,6,42,Non-binary / third gender,Married,Bachelor degree,Employed part time
+24/01/2022 15:02,24/01/2022 15:16,No_competition,0.05,2.2,828,13,6,5,165,6,46,Female,Single,Technical/vocational training,Unemployed
+24/01/2022 15:02,24/01/2022 15:16,No_competition,0.2,3.3,846,89,7,0,100,6,28,Female,Single,Bachelor degree,Employed full time
+24/01/2022 15:06,24/01/2022 15:23,competition,0.05,1.85,1012,13,3,6,145,4,86,Female,Widowed,Technical/vocational training,Retired
+24/01/2022 15:06,24/01/2022 15:22,competition,0.05,1.55,914,18,3,13,181,1,42,Female,In a relationship,Technical/vocational training,Employed part time
+24/01/2022 15:06,24/01/2022 15:21,competition,0.05,2.1,897,140,4,5,100,6,24,Female,In a relationship,Bachelor degree,Student
+24/01/2022 15:06,24/01/2022 15:25,competition,0.2,3.3,1126,12,7,2,30,6,30,Female,In a relationship,Bachelor degree,Employed full time
+24/01/2022 15:10,24/01/2022 15:24,No_competition,0.05,1.9,893,33,2,9,86,5,27,Female,Single,Bachelor degree,Unemployed
+24/01/2022 15:10,24/01/2022 15:25,No_competition,0.05,1.95,922,10,3,5,190,5,51,Male,Married,High school graduate,Employed part time
+24/01/2022 15:10,24/01/2022 15:26,No_competition,0.05,1.75,980,23,1,21,191,4,21,Female,In a relationship,High school graduate,Student
+24/01/2022 15:10,24/01/2022 15:39,No_competition,0.05,1.95,1783,48,1,41,30,6,33,Female,Single,Bachelor degree,Employed part time
+24/01/2022 15:11,24/01/2022 15:24,competition,0.05,1.7,783,15,4,4,130,2,34,Male,Single,High school graduate,Unemployed
+24/01/2022 15:11,24/01/2022 15:24,competition,0.2,2.7,800,11,5,3,100,4,72,Male,Divorced/Separated,Technical/vocational training,Retired
+24/01/2022 15:11,24/01/2022 15:33,competition,0.2,3.3,1289,15,8,2,100,4,38,Male,Married,Bachelor degree,Employed part time
+24/01/2022 15:11,24/01/2022 15:24,competition,0.2,3.3,800,265,8,4,99,4,31,Male,In a relationship,Master degree,Employed full time
+24/01/2022 15:11,24/01/2022 15:41,competition,0.2,6.5,1766,15,25,4,13,2,21,Male,Single,Technical/vocational training,Unemployed
+24/01/2022 15:12,24/01/2022 15:26,No_competition,0.2,3.5,798,95,8,2,24,6,42,Female,In a relationship,Bachelor degree,Employed full time
+24/01/2022 15:12,24/01/2022 15:26,No_competition,0.2,3.6,804,20,9,1,100,5,21,Male,Single,High school graduate,Student
+24/01/2022 15:12,24/01/2022 15:30,No_competition,0.2,2.8,1045,19,6,2,10,3,20,Male,In a relationship,Bachelor degree,Employed part time
+24/01/2022 15:12,24/01/2022 15:36,No_competition,0.2,3.4,1451,20,8,3,50,5,35,Male,In a relationship,Technical/vocational training,Employed full time
+24/01/2022 15:15,24/01/2022 15:30,competition,0.05,1.7,883,29,0,15,185,4,34,Male,In a relationship,High school graduate,Employed full time
+24/01/2022 15:15,24/01/2022 15:28,competition,0.05,1.6,778,30,4,3,126,1,32,Female,Married,Bachelor degree,Employed part time
+24/01/2022 15:15,24/01/2022 15:28,competition,0.2,3.4,784,15,8,4,100,5,31,Female,In a relationship,High school graduate,Employed full time
+24/01/2022 15:16,24/01/2022 15:32,competition,0.05,1.8,939,24,2,3,129,4,54,Female,Married,Technical/vocational training,Unemployed
+24/01/2022 15:16,24/01/2022 15:33,competition,0.2,2.7,986,130,6,3,80,2,64,Male,Married,Bachelor degree,Employed full time
+24/01/2022 15:16,24/01/2022 15:27,competition,0.2,3.7,663,158,10,5,77,4,26,Male,In a relationship,High school graduate,Employed full time
+24/01/2022 15:17,24/01/2022 15:36,competition,0.2,3.6,1110,15,9,4,110,5,54,Male,Single,Doctorate degree,Employed full time
+24/01/2022 15:20,24/01/2022 15:33,No_competition,0.05,1.95,791,26,3,9,12,5,40,Female,Married,High school graduate,Employed full time
+24/01/2022 15:20,24/01/2022 15:33,No_competition,0.2,2.2,801,52,3,41,74,3,53,Female,Married,Bachelor degree,Employed part time
+24/01/2022 15:20,24/01/2022 15:33,No_competition,0.05,1.85,801,25,9,1,99,1,25,Female,Single,Master degree,Employed full time
+24/01/2022 15:20,24/01/2022 15:34,No_competition,0.05,2.3,835,134,8,3,60,6,23,Male,In a relationship,High school graduate,Employed full time
+24/01/2022 15:22,24/01/2022 15:34,competition,0.05,1.45,751,30,1,18,167,1,34,Female,Married,Bachelor degree,Employed full time
+24/01/2022 15:22,24/01/2022 15:46,competition,0.2,3,1437,21,7,2,100,3,18,Male,In a relationship,High school graduate,Employed part time
+24/01/2022 15:26,24/01/2022 15:38,No_competition,0.05,1.95,744,22,5,5,84,4,25,Female,Single,Bachelor degree,Student
+24/01/2022 15:26,24/01/2022 15:39,No_competition,0.05,1.9,803,13,4,5,122,4,27,Male,Single,Master degree,Employed part time
+24/01/2022 15:26,24/01/2022 15:39,No_competition,0.2,3.6,818,15,9,2,166,5,33,Female,In a relationship,Bachelor degree,Employed full time
+24/01/2022 15:26,24/01/2022 15:41,No_competition,0.05,1.8,881,10,8,2,160,1,41,Female,Married,Bachelor degree,Employed full time
+25/01/2022 15:02,25/01/2022 15:14,No_competition,0.2,2.6,700,52,5,5,122,3,38,Male,Single,High school graduate,Retired
+25/01/2022 15:02,25/01/2022 15:14,No_competition,0.2,2.7,711,18,6,10,135,2,43,Male,Married,High school graduate,Employed full time
+25/01/2022 15:02,25/01/2022 15:14,No_competition,0.05,2.2,751,24,8,5,151,5,22,Female,In a relationship,Bachelor degree,Student
+25/01/2022 15:03,25/01/2022 15:17,competition,0.2,2.9,821,79,5,5,164,6,68,Female,Married,Technical/vocational training,Employed part time
+25/01/2022 15:03,25/01/2022 15:17,competition,0.2,3,815,26,6,5,106,5,19,Female,In a relationship,Bachelor degree,Student
+25/01/2022 15:03,25/01/2022 15:16,competition,0.2,3,791,84,6,8,113,5,29,Male,Single,Bachelor degree,Employed full time
+25/01/2022 15:03,25/01/2022 15:16,competition,0.2,3,795,13,7,5,100,3,32,Female,Married,High school graduate,Employed part time
+25/01/2022 15:09,25/01/2022 15:22,No_competition,0.2,3.1,788,28,7,4,111,4,24,Male,In a relationship,Bachelor degree,Student
+25/01/2022 15:09,25/01/2022 15:22,No_competition,0.2,3.2,791,142,8,4,80,3,30,Female,In a relationship,Master degree,Employed full time
+25/01/2022 15:09,25/01/2022 15:22,No_competition,0.05,2.05,792,28,5,10,80,5,26,Male,Single,Master degree,Employed full time
+25/01/2022 15:09,25/01/2022 15:23,No_competition,0.2,3.3,818,17,8,3,150,4,28,Male,Single,Bachelor degree,Student
+25/01/2022 15:12,25/01/2022 15:25,competition,0.05,1.85,766,12,3,6,145,4,26,Female,In a relationship,Technical/vocational training,Employed full time
+25/01/2022 15:12,25/01/2022 15:25,competition,0.05,1.95,762,21,3,12,43,5,36,Female,Married,Bachelor degree,Unemployed
+25/01/2022 15:12,25/01/2022 15:27,competition,0.05,1.6,925,6,4,2,157,1,20,Male,Single,High school graduate,Student
+25/01/2022 15:12,25/01/2022 15:27,competition,0.2,3,901,14,8,5,150,1,55,Male,In a relationship,Master degree,Employed part time
+25/01/2022 15:16,25/01/2022 15:29,No_competition,0.05,2,826,13,8,5,65,3,29,Female,In a relationship,Bachelor degree,Employed full time
+25/01/2022 15:16,25/01/2022 15:31,No_competition,0.2,2.1,893,7,2,6,186,4,39,Female,Single,Bachelor degree,Employed full time
+25/01/2022 15:16,25/01/2022 15:32,No_competition,0.05,2.1,956,13,8,3,100,4,70,Female,Divorced/Separated,Doctorate degree,Retired
+25/01/2022 15:19,25/01/2022 15:31,competition,0.2,2.7,761,21,6,15,159,2,51,Female,Married,Bachelor degree,Employed part time
+25/01/2022 15:19,25/01/2022 15:35,competition,0.2,3.2,966,12,7,4,40,5,23,Female,In a relationship,Master degree,Employed part time
+25/01/2022 15:19,25/01/2022 15:32,competition,0.2,3.5,820,12,8,4,163,6,57,Female,Married,Bachelor degree,Employed part time
+25/01/2022 15:19,25/01/2022 15:32,competition,0.2,3.6,799,77,11,2,75,1,26,Female,Single,Bachelor degree,Employed full time
+25/01/2022 15:22,25/01/2022 15:35,competition,0.2,3,775,168,6,9,150,5,38,Female,Married,Bachelor degree,Unemployed
+25/01/2022 15:23,25/01/2022 15:39,competition,0.05,1.5,967,7,0,7,50,2,36,Female,Married,Less than high school,Unemployed
+25/01/2022 15:23,25/01/2022 15:37,competition,0.05,1.7,845,12,0,12,113,4,70,Male,Married,High school graduate,Retired
+25/01/2022 15:23,25/01/2022 15:36,competition,0.2,3.2,820,15,9,5,80,1,27,Male,In a relationship,Doctorate degree,Employed full time
+25/01/2022 15:26,25/01/2022 15:41,No_competition,0.05,2.05,870,59,3,20,170,6,35,Male,Married,Bachelor degree,Employed full time
+25/01/2022 15:26,25/01/2022 15:41,No_competition,0.2,2.3,890,8,2,6,150,6,52,Male,Married,Bachelor degree,Employed full time
+25/01/2022 15:26,25/01/2022 15:47,No_competition,0.2,2.4,1243,10,4,3,114,3,26,Female,Single,Bachelor degree,Employed part time
+25/01/2022 15:26,25/01/2022 15:56,No_competition,0.05,1.85,1742,25,9,9,70,1,26,Male,Single,Technical/vocational training,Employed full time
+25/01/2022 15:31,25/01/2022 15:46,competition,0.05,1.9,897,17,4,5,150,4,22,Female,Single,Bachelor degree,Employed part time
+25/01/2022 15:31,25/01/2022 15:44,competition,0.2,2.9,751,24,5,9,101,6,40,Female,Married,Bachelor degree,Employed part time
+25/01/2022 15:31,25/01/2022 15:45,competition,0.2,3,823,69,6,1,170,5,50,Female,Widowed,Technical/vocational training,Unemployed
+25/01/2022 15:31,25/01/2022 15:54,competition,0.2,2.9,1375,27,7,4,80,2,25,Male,In a relationship,Technical/vocational training,Employed full time
+25/01/2022 15:33,25/01/2022 15:46,No_competition,0.05,2,812,18,2,12,175,6,42,Female,Single,Technical/vocational training,Employed full time
+25/01/2022 15:33,25/01/2022 15:47,No_competition,0.05,1.95,816,15,7,8,128,3,53,Female,Married,Bachelor degree,Employed part time
+25/01/2022 15:33,25/01/2022 15:47,No_competition,0.05,2.1,860,14,8,4,40,4,21,Male,In a relationship,High school graduate,Employed part time
+25/01/2022 15:33,25/01/2022 15:52,No_competition,0.05,1.95,1130,15,5,10,116,4,48,Female,Married,Bachelor degree,Unemployed
+26/01/2022 15:03,26/01/2022 15:17,competition,0.2,2.6,862,12,5,5,62,3,59,Male,Married,High school graduate,Employed full time
+26/01/2022 15:03,26/01/2022 15:16,competition,0.2,3.1,829,57,6,12,166,6,19,Male,Single,High school graduate,Student
+26/01/2022 15:03,26/01/2022 15:15,competition,0.2,3.1,749,106,6,10,100,6,29,Male,Single,High school graduate,Employed full time
+26/01/2022 15:03,26/01/2022 15:16,competition,0.2,3.9,815,13,11,0,60,4,21,Male,Single,High school graduate,Student
+26/01/2022 15:04,26/01/2022 15:18,No_competition,0.05,2.15,799,10,7,2,57,5,36,Female,Single,Master degree,Employed full time
+26/01/2022 15:04,26/01/2022 15:18,No_competition,0.05,1.95,818,35,7,26,127,3,21,Male,In a relationship,High school graduate,Student
+26/01/2022 15:04,26/01/2022 15:20,No_competition,0.05,2.05,934,14,9,1,100,3,28,Female,Single,Bachelor degree,Employed part time
+26/01/2022 15:04,26/01/2022 15:25,No_competition,0.05,2,1261,20,4,12,40,5,29,Female,Single,Bachelor degree,Employed full time
+26/01/2022 15:10,26/01/2022 15:27,competition,0.05,2.1,1042,15,4,2,61,6,28,Female,In a relationship,High school graduate,Employed part time
+26/01/2022 15:10,26/01/2022 15:24,competition,0.05,1.7,819,28,4,4,100,2,28,Male,In a relationship,Doctorate degree,Employed full time
+26/01/2022 15:10,26/01/2022 15:22,competition,0.2,3,727,797,6,7,15,5,20,Male,Single,Technical/vocational training,Student
+26/01/2022 15:10,26/01/2022 15:27,competition,0.2,3.2,1040,16,8,0,60,3,25,Male,Single,Master degree,Student
+26/01/2022 15:15,26/01/2022 15:27,No_competition,0.2,1.7,729,76,0,10,113,4,20,Female,Single,High school graduate,Student
+26/01/2022 15:15,26/01/2022 15:28,No_competition,0.05,2.35,750,74,11,9,70,5,67,Female,Married,Less than high school,Retired
+26/01/2022 15:15,26/01/2022 15:28,No_competition,0.05,1.9,788,12,2,9,88,5,68,Male,In a relationship,Master degree,Employed full time
+26/01/2022 15:15,26/01/2022 15:30,No_competition,0.05,1.6,890,16,0,9,0,3,45,Male,Married,Master degree,Employed full time
+26/01/2022 15:17,26/01/2022 15:30,No_competition,0.05,2,755,17,6,11,120,4,22,Female,Single,High school graduate,Employed part time
+26/01/2022 15:17,26/01/2022 15:31,No_competition,0.05,1.85,826,20,5,14,125,3,20,Female,Single,High school graduate,Employed part time
+26/01/2022 15:17,26/01/2022 15:34,No_competition,0.2,2.6,1024,10,5,4,100,3,45,Female,In a relationship,Technical/vocational training,Employed full time
+26/01/2022 15:18,26/01/2022 15:31,No_competition,0.2,1.8,821,16,2,11,41,1,57,Female,Married,Technical/vocational training,Unemployed
+26/01/2022 15:26,26/01/2022 15:41,competition,0.05,1.8,904,14,0,10,3,5,57,Female,Married,Technical/vocational training,Unemployed
+26/01/2022 15:26,26/01/2022 15:40,competition,0.05,2.05,855,14,3,4,185,6,32,Female,In a relationship,High school graduate,Unemployed
+26/01/2022 15:26,26/01/2022 15:46,competition,0.2,3,1160,7,7,0,115,3,23,Female,In a relationship,Master degree,Employed part time
+26/01/2022 15:26,26/01/2022 15:44,competition,0.2,3.2,1049,11,7,4,101,5,27,Female,In a relationship,High school graduate,Employed full time
+26/01/2022 15:27,26/01/2022 15:48,competition,0.05,1.8,1276,20,0,19,28,5,52,Female,Divorced/Separated,Bachelor degree,Employed full time
+26/01/2022 15:27,26/01/2022 16:03,competition,0.2,2.7,2148,53,6,5,28,2,20,Female,Single,High school graduate,Unemployed
+26/01/2022 15:27,26/01/2022 15:41,competition,0.2,3.4,849,16,8,6,70,5,29,Male,In a relationship,Master degree,Employed full time
+26/01/2022 15:27,26/01/2022 15:41,competition,0.2,3.9,822,12,10,1,100,6,40,Female,Married,Master degree,Employed part time
+26/01/2022 15:33,26/01/2022 15:46,No_competition,0.2,2.6,794,11,5,6,117,3,24,Female,In a relationship,Master degree,Employed full time
+26/01/2022 15:33,26/01/2022 15:46,No_competition,0.05,2.15,820,12,5,7,150,6,55,Female,Single,Bachelor degree,Employed full time
+26/01/2022 15:33,26/01/2022 15:47,No_competition,0.05,2,852,29,6,7,153,4,50,Female,Married,Master degree,Employed part time
+26/01/2022 15:33,26/01/2022 15:48,No_competition,0.05,2.25,940,15,7,5,25,6,41,Male,In a relationship,Bachelor degree,Employed full time
+26/01/2022 15:37,26/01/2022 15:54,competition,0.05,1.45,1037,11,1,5,10,1,57,Male,Married,Bachelor degree,Employed full time
+26/01/2022 15:37,26/01/2022 15:51,competition,0.05,2.1,846,14,4,9,199,6,59,Female,Divorced/Separated,Bachelor degree,Employed part time
+26/01/2022 15:37,26/01/2022 15:54,competition,0.2,3.1,1028,16,6,8,120,6,26,Male,In a relationship,Master degree,Student
+26/01/2022 15:37,26/01/2022 15:54,competition,0.2,3,1013,15,6,3,118,5,40,Female,Married,Doctorate degree,Employed part time
+26/01/2022 15:41,26/01/2022 15:53,No_competition,0.05,1.85,765,11,7,3,67,2,29,Female,Single,Technical/vocational training,Employed full time
+26/01/2022 15:41,26/01/2022 15:56,No_competition,0.05,2.3,918,15,12,2,46,4,28,Female,Married,Bachelor degree,Employed full time
+27/01/2022 15:04,27/01/2022 15:16,No_competition,0.2,1.8,722,100,0,17,15,5,50,Female,Single,Technical/vocational training,Retired
+27/01/2022 15:04,27/01/2022 15:17,No_competition,0.05,2.45,768,32,11,2,88,6,22,Male,Single,Bachelor degree,Employed part time
+27/01/2022 15:04,27/01/2022 15:17,No_competition,0.05,2.15,771,21,9,5,114,4,20,Female,In a relationship,High school graduate,Student
+27/01/2022 15:04,27/01/2022 15:17,No_competition,0.05,1.95,773,15,7,5,80,3,22,Female,In a relationship,High school graduate,Student
+27/01/2022 15:06,27/01/2022 15:25,competition,0.05,1.9,1104,37,0,11,63,6,24,Female,Single,High school graduate,Student
+27/01/2022 15:06,27/01/2022 15:23,competition,0.2,3.3,1021,16,8,8,59,4,29,Female,Single,Master degree,Employed full time
+27/01/2022 15:06,27/01/2022 15:22,competition,0.2,3.2,958,15,8,6,153,3,52,Female,Single,High school graduate,Employed full time
+27/01/2022 15:09,27/01/2022 15:21,No_competition,0.05,1.95,754,28,9,3,100,2,29,Male,Single,Bachelor degree,Employed full time
+27/01/2022 15:09,27/01/2022 15:23,No_competition,0.2,2.4,833,7,5,2,175,1,52,Female,Married,Master degree,Employed part time
+27/01/2022 15:09,27/01/2022 15:25,No_competition,0.05,1.7,943,13,4,5,100,2,25,Female,In a relationship,Bachelor degree,Student
+27/01/2022 15:11,27/01/2022 15:27,competition,0.05,2.1,919,93,4,6,105,6,32,Female,Married,Technical/vocational training,Employed part time
+27/01/2022 15:11,27/01/2022 15:27,competition,0.05,1.8,910,6,4,2,12,3,29,Female,Married,High school graduate,Employed full time
+27/01/2022 15:12,27/01/2022 15:27,competition,0.2,2.7,915,12,6,5,170,2,66,Male,Divorced/Separated,Bachelor degree,Employed full time
+27/01/2022 15:12,27/01/2022 15:25,competition,0.2,3.5,781,11,9,2,20,4,64,Male,Married,High school graduate,Retired
+27/01/2022 15:18,27/01/2022 15:31,No_competition,0.05,1.7,768,45,6,5,3,1,21,Female,In a relationship,High school graduate,Employed full time
+27/01/2022 15:18,27/01/2022 15:32,No_competition,0.05,1.7,854,22,4,6,50,2,24,Male,Single,High school graduate,Unemployed
+27/01/2022 15:18,27/01/2022 15:34,No_competition,0.05,1.95,985,8,5,3,97,4,26,Male,In a relationship,Bachelor degree,Employed part time
+27/01/2022 15:19,27/01/2022 15:36,competition,0.2,3.2,969,15,7,5,100,5,24,Female,In a relationship,Technical/vocational training,Unemployed
+27/01/2022 15:20,27/01/2022 15:33,competition,0.05,2,776,17,4,7,86,5,58,Male,Married,High school graduate,Employed full time
+27/01/2022 15:20,27/01/2022 15:49,competition,0.2,3,1725,10,7,2,99,3,28,Female,In a relationship,Technical/vocational training,Employed part time
+27/01/2022 15:20,27/01/2022 15:37,competition,0.2,3,987,11,7,2,80,3,20,Male,Single,Bachelor degree,Employed full time
+27/01/2022 15:20,27/01/2022 15:34,competition,0.2,3.3,849,15,7,8,120,6,45,Female,Divorced/Separated,Bachelor degree,Employed full time
+27/01/2022 15:30,27/01/2022 15:42,No_competition,0.2,2.9,730,16,5,7,80,6,38,Female,Married,High school graduate,Employed part time
+27/01/2022 15:30,27/01/2022 15:42,No_competition,0.05,2.2,748,12,8,4,116,5,22,Female,In a relationship,Bachelor degree,Student
+27/01/2022 15:30,27/01/2022 15:46,No_competition,0.2,2.3,941,27,2,8,160,6,26,Female,Single,Bachelor degree,Student
+27/01/2022 15:30,27/01/2022 15:47,No_competition,0.05,2.25,1012,72,7,1,10,6,28,Male,Single,Bachelor degree,Employed full time
+27/01/2022 15:35,27/01/2022 15:49,competition,0.2,3.2,867,22,7,2,105,5,22,Female,Single,Bachelor degree,Employed part time
+27/01/2022 15:35,27/01/2022 15:46,competition,0.2,3.5,699,78,9,7,151,4,32,Female,In a relationship,Bachelor degree,Employed full time
+27/01/2022 15:35,27/01/2022 15:49,competition,0.2,3.5,850,17,10,6,89,2,38,Female,Married,Technical/vocational training,Employed part time
+27/01/2022 15:35,27/01/2022 15:48,competition,0.2,4.1,773,42,12,5,36,4,46,Female,Married,Doctorate degree,Employed full time
+27/01/2022 15:38,27/01/2022 15:53,competition,0.05,1.9,882,31,4,11,183,4,54,Female,Married,Master degree,Employed full time
+27/01/2022 15:38,27/01/2022 15:58,competition,0.2,2.9,1226,26,6,5,149,4,21,Female,Single,High school graduate,Student
+27/01/2022 15:38,27/01/2022 15:53,competition,0.2,3.7,906,12,10,2,2,4,21,Female,In a relationship,High school graduate,Student
+27/01/2022 15:38,27/01/2022 15:56,competition,0.2,10.2,1051,196,42,0,25,5,32,Male,In a relationship,Bachelor degree,Employed part time
+27/01/2022 15:40,27/01/2022 15:52,No_competition,0.05,2.35,751,19,11,8,53,5,28,Female,Single,High school graduate,Employed full time
+27/01/2022 15:40,27/01/2022 15:53,No_competition,0.05,2.1,786,120,6,5,130,5,19,Male,In a relationship,High school graduate,Student
+27/01/2022 16:29,27/01/2022 16:43,No_competition,0.05,1.95,801,13,9,3,20,2,20,Female,Single,Bachelor degree,Student
+27/01/2022 16:29,27/01/2022 16:44,No_competition,0.05,2.25,873,11,7,3,80,6,22,Male,In a relationship,Bachelor degree,Employed part time
+27/01/2022 16:33,27/01/2022 16:45,No_competition,0.05,2,750,21,8,8,62,3,25,Female,Single,Bachelor degree,Employed part time
+27/01/2022 16:59,27/01/2022 17:12,No_competition,0.05,2.05,801,86,7,5,41,4,26,Female,In a relationship,Master degree,Employed part time
+28/01/2022 15:07,28/01/2022 15:19,No_competition,0.05,2,729,18,10,6,108,2,27,Female,Married,Master degree,Employed full time
+28/01/2022 15:07,28/01/2022 15:19,No_competition,0.05,1.65,744,31,3,8,150,2,43,Male,In a relationship,Master degree,Employed full time
+28/01/2022 15:07,28/01/2022 15:21,No_competition,0.05,1.5,820,10,2,7,110,1,64,Male,Married,Bachelor degree,Retired
+28/01/2022 15:07,28/01/2022 15:21,No_competition,0.05,2.1,847,9,6,3,118,5,32,Female,Single,Bachelor degree,Employed full time
+28/01/2022 15:07,28/01/2022 15:22,competition,0.2,3.1,873,9,6,3,80,6,55,Male,Single,Bachelor degree,Employed full time
+28/01/2022 15:07,28/01/2022 15:22,competition,0.2,3.1,887,17,7,1,178,4,20,Male,Single,Bachelor degree,Student
+28/01/2022 15:07,28/01/2022 15:20,competition,0.2,3.1,745,20,8,6,147,2,35,Female,In a relationship,Technical/vocational training,Unemployed
+28/01/2022 15:07,28/01/2022 15:20,competition,0.2,4.2,792,14,12,2,102,5,29,Female,Single,Master degree,Employed full time
+28/01/2022 15:09,28/01/2022 15:21,No_competition,0.2,4,722,133,11,3,30,5,20,Male,Single,Bachelor degree,Student
+28/01/2022 15:09,28/01/2022 15:22,No_competition,0.05,2.05,743,24,11,8,144,2,30,Female,In a relationship,Master degree,Employed part time
+28/01/2022 15:09,28/01/2022 15:23,No_competition,0.05,1.95,822,10,3,7,99,5,51,Female,Married,Master degree,Student
+28/01/2022 15:09,28/01/2022 15:25,No_competition,0.05,1.4,941,18,0,14,99,1,44,Female,Married,Technical/vocational training,Employed part time
+28/01/2022 15:16,28/01/2022 15:28,competition,0.2,2.8,753,94,5,3,62,5,21,Female,Single,High school graduate,Student
+28/01/2022 15:16,28/01/2022 15:29,competition,0.2,3.1,831,11,7,4,130,4,21,Female,Single,Bachelor degree,Student
+28/01/2022 15:16,28/01/2022 15:30,competition,0.2,3.6,867,16,9,1,75,5,32,Male,Divorced/Separated,High school graduate,Unemployed
+28/01/2022 15:27,28/01/2022 15:40,competition,0.2,2.7,777,7,5,2,100,4,36,Male,Single,High school graduate,Employed full time
+28/01/2022 15:27,28/01/2022 15:40,competition,0.2,3.3,807,16,7,2,127,6,20,Male,Single,High school graduate,Student
+28/01/2022 15:27,28/01/2022 15:41,competition,0.2,3.4,877,10,8,2,133,5,20,Male,Single,High school graduate,Employed full time
+28/01/2022 15:27,28/01/2022 15:40,competition,0.2,3.4,781,15,9,5,75,3,54,Female,Married,Technical/vocational training,Employed full time
+28/01/2022 15:28,28/01/2022 15:42,No_competition,0.05,2.2,838,16,6,6,50,6,46,Female,Married,Doctorate degree,Employed full time
+28/01/2022 15:28,28/01/2022 15:43,No_competition,0.05,1.95,916,22,9,6,70,2,27,Male,In a relationship,High school graduate,Unemployed
+28/01/2022 15:28,28/01/2022 15:43,No_competition,0.05,1.8,918,13,8,4,118,1,24,Female,In a relationship,Bachelor degree,Employed part time
+28/01/2022 15:35,28/01/2022 15:58,competition,0.05,2.05,1372,10,3,6,92,6,40,Female,Married,Bachelor degree,Employed full time
+28/01/2022 15:35,28/01/2022 15:52,competition,0.2,3.4,1028,10,9,1,102,3,21,Male,Single,Bachelor degree,Student
+28/01/2022 15:35,28/01/2022 15:48,competition,0.2,4,753,19,11,3,80,5,31,Male,Married,Bachelor degree,Employed full time
+28/01/2022 15:35,28/01/2022 15:52,competition,0.2,4,1033,94,12,2,51,3,55,Female,Single,Bachelor degree,Employed full time
+28/01/2022 15:46,28/01/2022 15:59,No_competition,0.2,2.7,812,7,5,0,45,4,47,Male,Married,Bachelor degree,Employed full time
+28/01/2022 15:46,28/01/2022 16:00,No_competition,0.05,1.8,857,14,4,6,57,3,41,Female,Single,Technical/vocational training,Employed part time
+28/01/2022 15:46,28/01/2022 16:15,No_competition,0.2,3.4,1774,11,8,2,44,5,22,Female,In a relationship,Bachelor degree,Student
+28/01/2022 15:46,28/01/2022 16:31,No_competition,0.05,1.95,2737,17,5,7,42,4,20,Male,Single,High school graduate,Student
+28/01/2022 15:49,28/01/2022 16:01,competition,0.05,1.9,696,41,0,9,199,6,25,Male,In a relationship,High school graduate,Employed part time
+28/01/2022 15:49,28/01/2022 16:02,competition,0.2,3.1,752,11,6,5,35,6,42,Male,Married,High school graduate,Employed full time
+28/01/2022 15:49,28/01/2022 16:07,competition,0.2,3.5,1079,10,8,1,30,6,33,Male,Single,Bachelor degree,Unemployed
+28/01/2022 15:49,28/01/2022 16:07,competition,0.2,3.5,1048,14,9,2,70,4,42,Female,In a relationship,Bachelor degree,Employed full time
+28/01/2022 15:51,28/01/2022 16:04,No_competition,0.05,2.1,784,12,6,3,107,5,39,Female,Married,Technical/vocational training,Employed full time
+28/01/2022 15:51,28/01/2022 16:05,No_competition,0.05,2.25,860,31,7,1,112,6,30,Female,In a relationship,Master degree,Student
+28/01/2022 15:51,28/01/2022 16:05,No_competition,0.05,1.95,858,17,1,13,37,6,25,Female,In a relationship,High school graduate,Student
+28/01/2022 15:51,28/01/2022 16:06,No_competition,0.05,1.7,872,8,0,5,199,4,26,Female,In a relationship,Bachelor degree,Employed part time
+28/01/2022 16:06,28/01/2022 16:22,competition,0.2,2.7,948,77,5,6,85,4,25,Male,In a relationship,Bachelor degree,Student
+28/01/2022 16:06,28/01/2022 16:20,competition,0.2,2.9,844,11,7,2,150,2,43,Male,Single,Master degree,Employed full time
+28/01/2022 16:07,28/01/2022 16:23,competition,0.05,1.75,978,12,3,9,110,3,79,Female,In a relationship,High school graduate,Retired
+28/01/2022 16:07,28/01/2022 16:24,competition,0.2,2.8,1043,5,6,0,20,3,41,Male,Married,Bachelor degree,Employed full time
+28/01/2022 18:38,28/01/2022 18:51,No_competition,0.05,2.45,730,17,11,5,20,6,30,Male,In a relationship,Bachelor degree,Employed full time
+28/01/2022 18:38,28/01/2022 18:51,No_competition,0.05,2.05,769,17,9,7,120,3,47,Female,Married,High school graduate,Employed full time
+28/01/2022 18:38,28/01/2022 18:52,No_competition,0.2,3,828,35,6,9,70,5,21,Female,In a relationship,High school graduate,Student
+28/01/2022 18:38,28/01/2022 18:56,No_competition,0.05,1.75,1082,104,3,2,55,3,27,Male,Single,Bachelor degree,Student
+28/01/2022 18:38,28/01/2022 18:54,competition,0.2,2.8,954,17,5,6,100,5,19,Female,Single,High school graduate,Student
+28/01/2022 18:38,28/01/2022 18:52,competition,0.2,3.1,846,34,6,2,50,6,24,Female,Single,Bachelor degree,Student
+28/01/2022 18:38,28/01/2022 18:54,competition,0.2,3.3,961,17,8,4,52,4,20,Male,Single,High school graduate,Student
+28/01/2022 18:38,28/01/2022 18:53,competition,0.2,3.5,865,10,8,1,150,6,19,Female,Single,High school graduate,Student
+28/01/2022 18:40,28/01/2022 18:52,No_competition,0.05,1.7,745,16,6,3,63,1,19,Male,In a relationship,High school graduate,Student
+28/01/2022 18:40,28/01/2022 18:53,No_competition,0.05,1.9,800,21,6,4,100,3,28,Male,In a relationship,Bachelor degree,Employed full time
+28/01/2022 18:40,28/01/2022 18:53,No_competition,0.2,2.7,818,14,5,9,199,4,54,Male,Married,Technical/vocational training,Employed full time
+28/01/2022 18:40,28/01/2022 18:54,No_competition,0.05,2.25,831,27,9,6,15,5,29,Male,In a relationship,Master degree,Employed full time
+28/01/2022 18:43,28/01/2022 18:55,competition,0.05,1.9,695,14,4,7,38,4,40,Male,In a relationship,Bachelor degree,Employed full time
+28/01/2022 18:43,28/01/2022 19:00,competition,0.2,2.6,991,13,5,6,125,3,29,Female,Single,High school graduate,Employed full time
+28/01/2022 18:43,28/01/2022 18:56,competition,0.2,3,776,13,8,2,115,1,21,Female,Single,Bachelor degree,Employed part time
+28/01/2022 18:43,28/01/2022 18:58,competition,0.2,3.7,892,15,9,5,88,6,36,Male,Single,Bachelor degree,Unemployed
+28/01/2022 18:51,28/01/2022 19:06,competition,0.05,1.8,886,20,2,5,120,4,31,Male,Single,Bachelor degree,Employed full time
+28/01/2022 18:51,28/01/2022 19:05,competition,0.2,2.9,782,76,6,8,100,4,35,Female,Single,Bachelor degree,Employed full time
+28/01/2022 18:51,28/01/2022 19:05,competition,0.2,3.5,790,49,8,8,139,6,25,Male,In a relationship,Bachelor degree,Employed full time
+28/01/2022 18:52,28/01/2022 19:04,competition,0.05,2.1,774,17,4,12,39,6,23,Female,Single,Bachelor degree,Employed part time
+28/01/2022 18:53,28/01/2022 19:06,No_competition,0.05,1.4,763,72,0,62,33,1,28,Female,Single,Bachelor degree,Unemployed
+28/01/2022 18:53,28/01/2022 19:06,No_competition,0.05,2.3,769,32,8,3,93,6,37,Female,Married,Bachelor degree,Employed full time
+28/01/2022 18:53,28/01/2022 19:07,No_competition,0.2,3.7,830,28,9,5,110,6,28,Female,Married,Bachelor degree,Employed full time
+28/01/2022 18:53,28/01/2022 20:30,No_competition,0.05,2.05,5806,44,5,3,120,5,32,Female,Single,Bachelor degree,Employed full time
+28/01/2022 19:00,28/01/2022 19:12,competition,0.2,3.3,709,31,7,5,35,6,23,Female,In a relationship,Bachelor degree,Employed full time
+28/01/2022 19:00,28/01/2022 19:14,competition,0.2,3.4,862,14,8,3,72,5,46,Male,In a relationship,Bachelor degree,Employed full time
+28/01/2022 19:00,28/01/2022 19:12,competition,0.2,3.3,742,14,9,4,59,2,24,Female,Married,Master degree,Employed part time
+28/01/2022 19:07,28/01/2022 19:21,No_competition,0.05,2.25,801,17,9,5,131,5,22,Female,Single,Bachelor degree,Employed full time
+28/01/2022 19:08,28/01/2022 19:23,No_competition,0.05,2.05,902,110,5,2,80,5,29,Male,Single,Bachelor degree,Unemployed
+28/01/2022 19:08,28/01/2022 19:33,No_competition,0.05,2.05,1546,7,3,4,120,6,22,Female,In a relationship,Master degree,Employed full time
+28/01/2022 19:56,28/01/2022 20:10,competition,0.05,1.9,791,16,4,8,110,4,25,Male,In a relationship,High school graduate,Employed full time
+28/01/2022 19:56,28/01/2022 20:10,competition,0.2,3,796,17,7,7,100,3,20,Male,Single,High school graduate,Employed part time
+28/01/2022 19:56,28/01/2022 20:11,competition,0.2,3.3,897,21,8,5,100,4,36,Male,In a relationship,Doctorate degree,Employed full time
+28/01/2022 20:09,28/01/2022 20:22,competition,0.05,2,758,10,2,8,153,6,20,Male,In a relationship,High school graduate,Unemployed
