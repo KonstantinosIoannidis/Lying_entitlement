@@ -1,6 +1,7 @@
 ## Description
 
-This depository includes the data and the Stata code used in Ioannidis K. & Soraperra I. (2023). [Exposure to competitive environments and the effect on morality](https://link.springer.com/article/10.1007/s40881-020-00094-1). *Journal of the Economic Science Association*
+This depository includes the data and the Stata code used in Ioannidis K. & Soraperra I. (2023). [Exposure to competitive environments and the effect on morality].
+<!-- (https://link.springer.com/article/10.1007/s40881-020-00094-1). *Journal of the Economic Science Association* -->
 
 ### Abstract
 
@@ -20,13 +21,13 @@ The files are stored in two folders: Data, which contains data from the experime
 2. Stata
    * Data Analysis.do (*Calls and executes all other files*)
    * Prepare Raw Data.do (*Cleans raw experimental data and prepares it for analysis*)
-   * Main Effect.do (*Produces the main result of Subsection 3.1, Table 1 and Figure 1*)
+<!--    * Main Effect.do (*Produces the main result of Subsection 3.1, Table 1 and Figure 1*)
    * Robustness.do (*Produces the robustness checks from the end of Subsection 3.1*)
    * Direction.do (*Produces results of Subsection 3.2 and Figure 2*)
    * Magnitude.do (*Produces Table 2*)
    * Power Analysis (*Produces results for first paragraph of Section 4*)
    * Prepare Raw Data.do (*Cleans raw meta data and prepares it for analysis*)
-   * Meta Analysis.do (*Produces Table 3 and Figure 3*)
+   * Meta Analysis.do (*Produces Table 3 and Figure 3*) -->
 
 ### Instructions
 To run the code, you only need to run **Data Analysis.do**.
