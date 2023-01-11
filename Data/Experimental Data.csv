@@ -1,433 +1,433 @@
-treatment,belief,die_roll,gender,marital,education,employment,correct,wrong,piece_rate,payment,age
-No_competition,0,6,Female,Single,Technical/vocational training,Employed part time,6,12,.05,2.2,32
-No_competition,105,4,Male,Single,High school graduate,Student,8,10,.2,3.3,21
-No_competition,99,4,Female,Single,High school graduate,Unemployed,7,3,.05,2.05,23
-No_competition,38,4,Female,In a relationship,Technical/vocational training,Employed part time,0,13,.2,1.7,25
-No_competition,68,6,Female,Single,High school graduate,Student,5,3,.05,2.15,21
-No_competition,197,3,Male,Single,High school graduate,Student,0,6,.05,1.6,23
-No_competition,160,4,Female,In a relationship,High school graduate,Student,8,6,.2,3.3,20
-No_competition,82,4,Male,Single,Master degree,Unemployed,7,0,.05,2.05,25
-No_competition,20,5,Male,In a relationship,High school graduate,Employed full time,10,2,.05,2.3,20
-No_competition,147,5,Female,In a relationship,Bachelor degree,Employed full time,6,5,.05,2.1,24
-No_competition,50,4,Female,In a relationship,Master degree,Employed full time,10,3,.2,3.7,27
-No_competition,50,5,Female,Single,Bachelor degree,Unemployed,5,5,.05,2.05,23
-No_competition,70,5,Male,Single,High school graduate,Unemployed,8,3,.05,2.2,19
-No_competition,170,2,Male,Single,Bachelor degree,Student,4,9,.05,1.7,33
-No_competition,195,4,Female,Single,Bachelor degree,Employed part time,0,17,.2,1.7,30
-No_competition,106,3,Female,Married,Bachelor degree,Employed full time,0,2,.05,1.6,33
-No_competition,100,4,Male,Married,Master degree,Employed full time,3,1,.05,1.85,26
-No_competition,95,4,Female,Single,Bachelor degree,Employed part time,7,4,.2,3.1,28
-No_competition,105,5,Female,In a relationship,Master degree,Unemployed,5,2,.05,2.05,25
-No_competition,22,6,Male,Single,High school graduate,Student,7,5,.05,2.25,21
-No_competition,80,5,Male,Single,High school graduate,Student,8,4,.05,2.2,21
-No_competition,100,5,Non-binary / third gender,Single,Bachelor degree,Student,3,4,.05,1.95,22
-No_competition,46,4,Female,Single,Bachelor degree,Employed part time,9,1,.05,2.15,41
-No_competition,100,2,Male,In a relationship,Master degree,Employed full time,7,10,.05,1.85,32
-No_competition,100,6,Female,Single,High school graduate,Unemployed,7,10,.2,3.3,30
-No_competition,160,6,Male,Single,High school graduate,Unemployed,4,4,.05,2.1,32
-No_competition,62,4,Female,Married,Technical/vocational training,Unemployed,2,16,.05,1.8,52
-No_competition,102,2,Non-binary / third gender,Single,High school graduate,Student,5,5,.05,1.75,19
-No_competition,128,4,Female,Single,High school graduate,Student,8,7,.05,2.1,20
-No_competition,125,1,Female,In a relationship,Bachelor degree,Employed full time,12,6,.2,3.8,47
-No_competition,170,6,Male,Married,Bachelor degree,Employed full time,5,3,.05,2.15,29
-No_competition,70,6,Male,Single,Bachelor degree,Employed full time,7,3,.05,2.25,26
-No_competition,96,4,Male,In a relationship,Bachelor degree,Unemployed,10,0,.05,2.2,40
-No_competition,135,5,Female,In a relationship,High school graduate,Employed part time,6,9,.05,2.1,30
-No_competition,30,2,Male,Single,High school graduate,Unemployed,7,2,.05,1.85,20
-No_competition,50,5,Male,In a relationship,Bachelor degree,Student,6,2,.05,2.1,22
-No_competition,100,4,Female,Single,Bachelor degree,Employed part time,5,6,.2,2.7,35
-No_competition,140,2,Male,Divorced/Separated,High school graduate,Unemployed,6,5,.05,1.8,54
-No_competition,55,2,Male,In a relationship,High school graduate,Student,8,3,.05,1.9,20
-No_competition,151,5,Female,Married,Bachelor degree,Employed part time,4,7,.2,2.6,38
-No_competition,83,2,Female,Single,Bachelor degree,Employed full time,10,7,.05,2,28
-No_competition,30,3,Male,Single,Master degree,Employed full time,6,9,.05,1.9,43
-No_competition,75,5,Male,In a relationship,Master degree,Unemployed,12,5,.05,2.4,25
-No_competition,70,2,Male,In a relationship,Doctorate degree,Employed full time,10,6,.05,2,39
-No_competition,79,5,Male,In a relationship,Bachelor degree,Student,6,6,.2,3,20
-No_competition,108,6,Female,Single,Bachelor degree,Employed full time,9,3,.05,2.35,22
-No_competition,93,4,Female,In a relationship,Technical/vocational training,Unemployed,8,1,.2,3.3,35
-No_competition,70,3,Female,Married,Master degree,Employed full time,6,8,.05,1.9,36
-No_competition,81,4,Male,In a relationship,Technical/vocational training,Employed full time,8,7,.05,2.1,32
-No_competition,85,5,Female,Single,High school graduate,Student,4,3,.2,2.6,21
-No_competition,41,1,Male,Divorced/Separated,Bachelor degree,Employed full time,7,9,.05,1.75,38
-No_competition,158,6,Female,Single,High school graduate,Student,4,5,.2,2.7,20
-No_competition,73,4,Female,In a relationship,Master degree,Student,6,6,.2,2.9,24
-No_competition,45,5,Male,Single,Bachelor degree,Employed part time,7,7,.05,2.15,21
-No_competition,75,4,Female,In a relationship,Technical/vocational training,Employed full time,11,1,.05,2.25,28
-No_competition,150,6,Male,Married,Bachelor degree,Employed full time,7,0,.05,2.25,24
-No_competition,50,5,Male,Single,High school graduate,Employed full time,5,10,.05,2.05,21
-No_competition,37,2,Male,Married,Master degree,Employed full time,3,27,.05,1.65,40
-No_competition,80,6,Male,In a relationship,Bachelor degree,Unemployed,7,2,.05,2.25,33
-No_competition,30,6,Non-binary / third gender,Single,High school graduate,Student,10,2,.05,2.4,18
-No_competition,100,2,Male,In a relationship,Master degree,Employed full time,9,2,.05,1.95,24
-No_competition,60,6,Female,In a relationship,High school graduate,Employed full time,9,4,.05,2.35,27
-No_competition,135,5,Male,In a relationship,Bachelor degree,Employed part time,8,2,.05,2.2,30
-No_competition,100,4,Female,Single,High school graduate,Student,11,4,.05,2.25,22
-No_competition,39,4,Male,Divorced/Separated,Bachelor degree,Employed full time,1,11,.05,1.75,46
-No_competition,150,2,Female,In a relationship,Bachelor degree,Employed full time,9,3,.05,1.95,27
-No_competition,110,2,Female,In a relationship,Technical/vocational training,Employed full time,5,6,.05,1.75,26
-No_competition,73,5,Female,Married,Bachelor degree,Employed full time,7,6,.05,2.15,43
-No_competition,129,3,Male,Married,High school graduate,Employed full time,5,4,.2,2.6,55
-No_competition,23,3,Female,In a relationship,Bachelor degree,Employed full time,4,5,.05,1.8,25
-No_competition,15,4,Female,Single,Bachelor degree,Employed part time,0,10,.05,1.7,29
-No_competition,107,4,Male,Single,High school graduate,Student,4,6,.05,1.9,19
-No_competition,25,6,Female,In a relationship,Master degree,Employed full time,8,3,.05,2.3,26
-No_competition,123,5,Male,Single,High school graduate,Student,8,2,.2,3.4,19
-No_competition,117,2,Female,Single,Bachelor degree,Student,5,2,.05,1.75,20
-No_competition,100,4,Female,Single,Bachelor degree,Employed full time,7,4,.05,2.05,35
-No_competition,111,5,Male,In a relationship,Bachelor degree,Student,8,3,.2,3.4,20
-No_competition,120,6,Male,In a relationship,Bachelor degree,Employed part time,6,12,.05,2.2,34
-No_competition,182,6,Female,Single,Bachelor degree,Employed part time,11,3,.05,2.45,23
-No_competition,116,5,Female,Single,High school graduate,Employed full time,8,5,.05,2.2,28
-No_competition,114,4,Male,Married,Technical/vocational training,Employed full time,5,6,.05,1.95,49
-No_competition,180,2,Male,In a relationship,Bachelor degree,Employed full time,3,15,.05,1.65,27
-No_competition,100,6,Male,In a relationship,Bachelor degree,Employed full time,4,4,.05,2.1,23
-No_competition,90,4,Female,Single,High school graduate,Student,0,6,.05,1.7,21
-No_competition,79,3,Female,In a relationship,Technical/vocational training,Unemployed,7,4,.05,1.95,31
-No_competition,62,5,Male,Single,High school graduate,Student,8,2,.05,2.2,24
-No_competition,68,5,Male,In a relationship,High school graduate,Student,8,4,.05,2.2,21
-No_competition,143,3,Male,Divorced/Separated,Bachelor degree,Employed full time,2,12,.05,1.7,66
-No_competition,179,4,Male,In a relationship,Master degree,Employed part time,3,6,.05,1.85,27
-No_competition,165,2,Non-binary / third gender,Single,Master degree,Employed full time,6,10,.2,2.7,28
-No_competition,55,4,Male,Married,Bachelor degree,Unemployed,5,2,.05,1.95,29
-No_competition,66,5,Male,In a relationship,High school graduate,Employed full time,9,1,.05,2.25,22
-No_competition,188,2,Female,Divorced/Separated,Bachelor degree,Employed part time,7,2,.05,1.85,50
-No_competition,119,5,Female,Single,Bachelor degree,Unemployed,8,1,.05,2.2,24
-No_competition,80,5,Female,Single,Technical/vocational training,Employed part time,3,10,.2,2.4,26
-No_competition,172,5,Female,Married,Master degree,Employed part time,8,6,.05,2.2,41
-No_competition,20,4,Male,In a relationship,Master degree,Employed full time,11,3,.05,2.25,25
-No_competition,39,4,Female,Divorced/Separated,Technical/vocational training,Retired,8,4,.05,2.1,51
-No_competition,122,1,Male,Single,Bachelor degree,Employed full time,5,5,.2,2.4,28
-No_competition,100,6,Male,In a relationship,Bachelor degree,Student,9,3,.05,2.35,20
-No_competition,84,6,Non-binary / third gender,Married,Bachelor degree,Employed part time,6,2,.05,2.2,42
-No_competition,165,6,Female,Single,Technical/vocational training,Unemployed,6,5,.05,2.2,46
-No_competition,100,6,Female,Single,Bachelor degree,Employed full time,7,0,.2,3.3,28
-No_competition,86,5,Female,Single,Bachelor degree,Unemployed,2,9,.05,1.9,27
-No_competition,190,5,Male,Married,High school graduate,Employed part time,3,5,.05,1.95,51
-No_competition,24,6,Female,In a relationship,Bachelor degree,Employed full time,8,2,.2,3.5,42
-No_competition,100,5,Male,Single,High school graduate,Student,9,1,.2,3.6,21
-No_competition,191,4,Female,In a relationship,High school graduate,Student,1,21,.05,1.75,21
-No_competition,10,3,Male,In a relationship,Bachelor degree,Employed part time,6,2,.2,2.8,20
-No_competition,12,5,Female,Married,High school graduate,Employed full time,3,9,.05,1.95,40
-No_competition,74,3,Female,Married,Bachelor degree,Employed part time,3,41,.2,2.2,53
-No_competition,99,1,Female,Single,Master degree,Employed full time,9,1,.05,1.85,25
-No_competition,60,6,Male,In a relationship,High school graduate,Employed full time,8,3,.05,2.3,23
-No_competition,50,5,Male,In a relationship,Technical/vocational training,Employed full time,8,3,.2,3.4,35
-No_competition,84,4,Female,Single,Bachelor degree,Student,5,5,.05,1.95,25
-No_competition,30,6,Female,Single,Bachelor degree,Employed part time,1,41,.05,1.95,33
-No_competition,122,4,Male,Single,Master degree,Employed part time,4,5,.05,1.9,27
-No_competition,166,5,Female,In a relationship,Bachelor degree,Employed full time,9,2,.2,3.6,33
-No_competition,160,1,Female,Married,Bachelor degree,Employed full time,8,2,.05,1.8,41
-No_competition,122,3,Male,Single,High school graduate,Retired,5,5,.2,2.6,38
-No_competition,135,2,Male,Married,High school graduate,Employed full time,6,10,.2,2.7,43
-No_competition,151,5,Female,In a relationship,Bachelor degree,Student,8,5,.05,2.2,22
-No_competition,111,4,Male,In a relationship,Bachelor degree,Student,7,4,.2,3.1,24
-No_competition,80,3,Female,In a relationship,Master degree,Employed full time,8,4,.2,3.2,30
-No_competition,80,5,Male,Single,Master degree,Employed full time,5,10,.05,2.05,26
-No_competition,150,4,Male,Single,Bachelor degree,Student,8,3,.2,3.3,28
-No_competition,65,3,Female,In a relationship,Bachelor degree,Employed full time,8,5,.05,2,29
-No_competition,186,4,Female,Single,Bachelor degree,Employed full time,2,6,.2,2.1,39
-No_competition,100,4,Female,Divorced/Separated,Doctorate degree,Retired,8,3,.05,2.1,70
-No_competition,170,6,Male,Married,Bachelor degree,Employed full time,3,20,.05,2.05,35
-No_competition,150,6,Male,Married,Bachelor degree,Employed full time,2,6,.2,2.3,52
-No_competition,175,6,Female,Single,Technical/vocational training,Employed full time,2,12,.05,2,42
-No_competition,128,3,Female,Married,Bachelor degree,Employed part time,7,8,.05,1.95,53
-No_competition,114,3,Female,Single,Bachelor degree,Employed part time,4,3,.2,2.4,26
-No_competition,40,4,Male,In a relationship,High school graduate,Employed part time,8,4,.05,2.1,21
-No_competition,116,4,Female,Married,Bachelor degree,Unemployed,5,10,.05,1.95,48
-No_competition,70,1,Male,Single,Technical/vocational training,Employed full time,9,9,.05,1.85,26
-No_competition,57,5,Female,Single,Master degree,Employed full time,7,2,.05,2.15,36
-No_competition,127,3,Male,In a relationship,High school graduate,Student,7,26,.05,1.95,21
-No_competition,100,3,Female,Single,Bachelor degree,Employed part time,9,1,.05,2.05,28
-No_competition,40,5,Female,Single,Bachelor degree,Employed full time,4,12,.05,2,29
-No_competition,113,4,Female,Single,High school graduate,Student,0,10,.2,1.7,20
-No_competition,70,5,Female,Married,Less than high school,Retired,11,9,.05,2.35,67
-No_competition,88,5,Male,In a relationship,Master degree,Employed full time,2,9,.05,1.9,68
-No_competition,0,3,Male,Married,Master degree,Employed full time,0,9,.05,1.6,45
-No_competition,120,4,Female,Single,High school graduate,Employed part time,6,11,.05,2,22
-No_competition,41,1,Female,Married,Technical/vocational training,Unemployed,2,11,.2,1.8,57
-No_competition,125,3,Female,Single,High school graduate,Employed part time,5,14,.05,1.85,20
-No_competition,100,3,Female,In a relationship,Technical/vocational training,Employed full time,5,4,.2,2.6,45
-No_competition,117,3,Female,In a relationship,Master degree,Employed full time,5,6,.2,2.6,24
-No_competition,150,6,Female,Single,Bachelor degree,Employed full time,5,7,.05,2.15,55
-No_competition,153,4,Female,Married,Master degree,Employed part time,6,7,.05,2,50
-No_competition,25,6,Male,In a relationship,Bachelor degree,Employed full time,7,5,.05,2.25,41
-No_competition,67,2,Female,Single,Technical/vocational training,Employed full time,7,3,.05,1.85,29
-No_competition,46,4,Female,Married,Bachelor degree,Employed full time,12,2,.05,2.3,28
-No_competition,15,5,Female,Single,Technical/vocational training,Retired,0,17,.2,1.8,50
-No_competition,88,6,Male,Single,Bachelor degree,Employed part time,11,2,.05,2.45,22
-No_competition,114,4,Female,In a relationship,High school graduate,Student,9,5,.05,2.15,20
-No_competition,80,3,Female,In a relationship,High school graduate,Student,7,5,.05,1.95,22
-No_competition,100,2,Male,Single,Bachelor degree,Employed full time,9,3,.05,1.95,29
-No_competition,175,1,Female,Married,Master degree,Employed part time,5,2,.2,2.4,52
-No_competition,100,2,Female,In a relationship,Bachelor degree,Student,4,5,.05,1.7,25
-No_competition,3,1,Female,In a relationship,High school graduate,Employed full time,6,5,.05,1.7,21
-No_competition,50,2,Male,Single,High school graduate,Unemployed,4,6,.05,1.7,24
-No_competition,97,4,Male,In a relationship,Bachelor degree,Employed part time,5,3,.05,1.95,26
-No_competition,80,6,Female,Married,High school graduate,Employed part time,5,7,.2,2.9,38
-No_competition,116,5,Female,In a relationship,Bachelor degree,Student,8,4,.05,2.2,22
-No_competition,160,6,Female,Single,Bachelor degree,Student,2,8,.2,2.3,26
-No_competition,10,6,Male,Single,Bachelor degree,Employed full time,7,1,.05,2.25,28
-No_competition,53,5,Female,Single,High school graduate,Employed full time,11,8,.05,2.35,28
-No_competition,130,5,Male,In a relationship,High school graduate,Student,6,5,.05,2.1,19
-No_competition,20,2,Female,Single,Bachelor degree,Student,9,3,.05,1.95,20
-No_competition,80,6,Male,In a relationship,Bachelor degree,Employed part time,7,3,.05,2.25,22
-No_competition,62,3,Female,Single,Bachelor degree,Employed part time,8,8,.05,2,25
-No_competition,41,4,Female,In a relationship,Master degree,Employed part time,7,5,.05,2.05,26
-No_competition,108,2,Female,Married,Master degree,Employed full time,10,6,.05,2,27
-No_competition,150,2,Male,In a relationship,Master degree,Employed full time,3,8,.05,1.65,43
-No_competition,110,1,Male,Married,Bachelor degree,Retired,2,7,.05,1.5,64
-No_competition,118,5,Female,Single,Bachelor degree,Employed full time,6,3,.05,2.1,32
-No_competition,30,5,Male,Single,Bachelor degree,Student,11,3,.2,4,20
-No_competition,144,2,Female,In a relationship,Master degree,Employed part time,11,8,.05,2.05,30
-No_competition,99,5,Female,Married,Master degree,Student,3,7,.05,1.95,51
-No_competition,99,1,Female,Married,Technical/vocational training,Employed part time,0,14,.05,1.4,44
-No_competition,50,6,Female,Married,Doctorate degree,Employed full time,6,6,.05,2.2,46
-No_competition,70,2,Male,In a relationship,High school graduate,Unemployed,9,6,.05,1.95,27
-No_competition,118,1,Female,In a relationship,Bachelor degree,Employed part time,8,4,.05,1.8,24
-No_competition,45,4,Male,Married,Bachelor degree,Employed full time,5,0,.2,2.7,47
-No_competition,57,3,Female,Single,Technical/vocational training,Employed part time,4,6,.05,1.8,41
-No_competition,107,5,Female,Married,Technical/vocational training,Employed full time,6,3,.05,2.1,39
-No_competition,112,6,Female,In a relationship,Master degree,Student,7,1,.05,2.25,30
-No_competition,37,6,Female,In a relationship,High school graduate,Student,1,13,.05,1.95,25
-No_competition,199,4,Female,In a relationship,Bachelor degree,Employed part time,0,5,.05,1.7,26
-No_competition,44,5,Female,In a relationship,Bachelor degree,Student,8,2,.2,3.4,22
-No_competition,42,4,Male,Single,High school graduate,Student,5,7,.05,1.95,20
-No_competition,20,6,Male,In a relationship,Bachelor degree,Employed full time,11,5,.05,2.45,30
-No_competition,120,3,Female,Married,High school graduate,Employed full time,9,7,.05,2.05,47
-No_competition,70,5,Female,In a relationship,High school graduate,Student,6,9,.2,3,21
-No_competition,63,1,Male,In a relationship,High school graduate,Student,6,3,.05,1.7,19
-No_competition,100,3,Male,In a relationship,Bachelor degree,Employed full time,6,4,.05,1.9,28
-No_competition,199,4,Male,Married,Technical/vocational training,Employed full time,5,9,.2,2.7,54
-No_competition,15,5,Male,In a relationship,Master degree,Employed full time,9,6,.05,2.25,29
-No_competition,55,3,Male,Single,Bachelor degree,Student,3,2,.05,1.75,27
-No_competition,33,1,Female,Single,Bachelor degree,Unemployed,0,62,.05,1.4,28
-No_competition,93,6,Female,Married,Bachelor degree,Employed full time,8,3,.05,2.3,37
-No_competition,110,6,Female,Married,Bachelor degree,Employed full time,9,5,.2,3.7,28
-No_competition,131,5,Female,Single,Bachelor degree,Employed full time,9,5,.05,2.25,22
-No_competition,80,5,Male,Single,Bachelor degree,Unemployed,5,2,.05,2.05,29
-No_competition,120,6,Female,In a relationship,Master degree,Employed full time,3,4,.05,2.05,22
-No_competition,120,5,Female,Single,Bachelor degree,Employed full time,5,3,.05,2.05,32
-competition,197,4,Male,Married,High school graduate,Employed full time,3,14,.05,1.85,60
-competition,5,4,Male,In a relationship,High school graduate,Student,6,1,.2,2.9,19
-competition,18,6,Male,Single,High school graduate,Student,7,4,.2,3.3,20
-competition,166,4,Female,Single,Technical/vocational training,Employed full time,9,2,.2,3.5,37
-competition,30,6,Female,In a relationship,Bachelor degree,Unemployed,0,15,.05,1.9,34
-competition,162,4,Male,In a relationship,Less than high school,Unemployed,2,14,.05,1.8,24
-competition,18,6,Female,Married,Technical/vocational training,Employed full time,7,2,.2,3.3,55
-competition,120,4,Female,In a relationship,Technical/vocational training,Employed full time,7,4,.2,3.1,23
-competition,180,6,Female,Married,Technical/vocational training,Retired,3,8,.05,2.05,62
-competition,175,3,Male,Single,Less than high school,Unemployed,8,8,.2,3.2,26
-competition,184,3,Female,In a relationship,Bachelor degree,Employed full time,10,6,.2,3.6,27
-competition,97,2,Male,In a relationship,High school graduate,Employed full time,4,8,.05,1.7,50
-competition,35,6,Male,Married,Bachelor degree,Employed full time,6,4,.2,3.1,46
-competition,162,5,Female,Single,High school graduate,Employed part time,6,3,.2,3,33
-competition,35,5,Male,Single,High school graduate,Student,14,4,.2,4.600000000000001,20
-competition,20,3,Female,Single,Bachelor degree,Employed full time,0,5,.05,1.6,32
-competition,100,4,Female,In a relationship,Master degree,Employed full time,2,7,.05,1.8,28
-competition,100,1,Female,In a relationship,Doctorate degree,Employed full time,7,3,.2,2.8,25
-competition,50,6,Female,Single,Technical/vocational training,Student,8,2,.2,3.5,20
-competition,50,3,Male,Single,Bachelor degree,Unemployed,8,1,.2,3.2,24
-competition,35,1,Female,In a relationship,Master degree,Student,8,9,.2,3,23
-competition,132,5,Male,Single,Bachelor degree,Student,2,27,.05,1.9,23
-competition,15,4,Female,In a relationship,High school graduate,Student,13,1,.2,4.300000000000001,23
-competition,182,5,Male,In a relationship,High school graduate,Employed part time,7,3,.2,3.2,25
-competition,53,6,Male,Single,Master degree,Employed full time,7,11,.2,3.3,50
-competition,50,4,Female,Married,Technical/vocational training,Unemployed,7,3,.2,3.1,47
-competition,5,1,Female,Single,Bachelor degree,Student,8,4,.2,3,22
-competition,30,4,Female,Single,High school graduate,Student,14,5,.2,4.500000000000001,20
-competition,60,6,Female,Married,Doctorate degree,Employed full time,3,7,.05,2.05,37
-competition,82,4,Male,Single,Bachelor degree,Unemployed,6,2,.2,2.9,24
-competition,69,2,Non-binary / third gender,Single,High school graduate,Employed part time,12,2,.2,3.9,19
-competition,61,6,Female,Single,Bachelor degree,Employed full time,4,8,.05,2.1,23
-competition,25,5,Female,In a relationship,Doctorate degree,Employed full time,7,6,.2,3.2,35
-competition,149,6,Female,Married,Master degree,Employed full time,7,2,.2,3.3,44
-competition,35,3,Male,Single,Master degree,Employed full time,8,3,.2,3.2,35
-competition,50,6,Female,Married,Master degree,Employed part time,9,12,.2,3.7,40
-competition,100,1,Female,In a relationship,Bachelor degree,Employed full time,2,4,.05,1.5,28
-competition,48,6,Female,In a relationship,Technical/vocational training,Unemployed,4,7,.05,2.1,26
-competition,106,4,Female,In a relationship,Bachelor degree,Employed part time,8,3,.2,3.3,21
-competition,40,6,Male,In a relationship,High school graduate,Employed full time,12,3,.2,4.300000000000001,21
-competition,101,5,Male,Married,Technical/vocational training,Retired,5,6,.2,2.8,66
-competition,150,5,Female,In a relationship,Bachelor degree,Student,6,2,.2,3,25
-competition,75,5,Male,Single,High school graduate,Student,7,3,.2,3.2,21
-competition,60,5,Male,Single,High school graduate,Student,10,2,.2,3.8,22
-competition,100,2,Non-binary / third gender,In a relationship,Bachelor degree,Student,6,2,.2,2.7,23
-competition,80,1,Female,In a relationship,Master degree,Employed part time,7,2,.2,2.8,40
-competition,22,2,Male,Married,Technical/vocational training,Employed full time,12,4,.2,3.9,36
-competition,15,5,Male,In a relationship,High school graduate,Student,12,1,.2,4.2,20
-competition,0,4,Female,In a relationship,Bachelor degree,Employed full time,0,9,.05,1.7,27
-competition,43,3,Male,Single,Bachelor degree,Employed part time,2,7,.05,1.7,27
-competition,40,6,Male,Married,Master degree,Employed full time,4,9,.05,2.1,35
-competition,80,6,Male,Married,Bachelor degree,Employed full time,6,2,.2,3.1,29
-competition,90,3,Female,In a relationship,Bachelor degree,Unemployed,7,1,.2,3,24
-competition,150,4,Male,In a relationship,Bachelor degree,Employed full time,8,11,.2,3.3,34
-competition,144,2,Female,Single,High school graduate,Employed full time,2,4,.05,1.6,30
-competition,55,6,Female,Single,Bachelor degree,Employed part time,7,4,.2,3.3,24
-competition,166,4,Female,Married,High school graduate,Retired,4,6,.05,1.9,67
-competition,100,6,Male,In a relationship,Master degree,Employed full time,10,3,.2,3.9,28
-competition,170,5,Female,Single,Bachelor degree,Unemployed,8,0,.2,3.4,29
-competition,8,4,Female,Married,Bachelor degree,Employed full time,0,11,.05,1.7,43
-competition,120,2,Female,Married,Master degree,Employed part time,5,11,.2,2.5,40
-competition,166,1,Male,Single,High school graduate,Employed full time,7,10,.2,2.8,39
-competition,96,6,Female,In a relationship,Bachelor degree,Employed full time,7,5,.2,3.3,27
-competition,140,3,Female,Single,Bachelor degree,Employed full time,10,5,.2,3.6,23
-competition,199,3,Female,In a relationship,High school graduate,Employed full time,5,6,.2,2.6,28
-competition,140,6,Male,Single,Bachelor degree,Unemployed,6,8,.2,3.1,48
-competition,65,5,Female,Married,Technical/vocational training,Unemployed,7,4,.2,3.2,36
-competition,131,2,Female,Married,High school graduate,Unemployed,8,4,.2,3.100000000000001,41
-competition,170,3,Female,Married,High school graduate,Employed full time,1,6,.05,1.65,49
-competition,115,4,Male,In a relationship,Technical/vocational training,Employed part time,3,4,.05,1.85,38
-competition,132,4,Male,Married,Technical/vocational training,Employed full time,6,5,.2,2.9,31
-competition,158,5,Female,Married,Bachelor degree,Employed part time,7,9,.2,3.2,48
-competition,10,3,Female,Single,Less than high school,Unemployed,0,10,.05,1.6,34
-competition,26,2,Female,Single,Bachelor degree,Employed part time,2,18,.05,1.6,31
-competition,100,4,Male,Single,Bachelor degree,Employed full time,7,3,.2,3.1,28
-competition,100,6,Female,Married,High school graduate,Employed full time,8,3,.2,3.5,43
-competition,191,5,Female,Married,High school graduate,Employed full time,1,9,.05,1.85,34
-competition,165,4,Male,Single,High school graduate,Employed part time,1,5,.05,1.75,32
-competition,120,4,Male,Married,Bachelor degree,Employed full time,6,11,.2,2.9,32
-competition,50,4,Non-binary / third gender,In a relationship,Master degree,Employed full time,9,7,.2,3.5,38
-competition,60,4,Male,Single,High school graduate,Employed part time,7,2,.2,3.1,19
-competition,160,5,Female,Single,Master degree,Employed full time,8,10,.2,3.4,26
-competition,100,4,Male,Single,Bachelor degree,Unemployed,7,2,.2,3.1,30
-competition,39,4,Female,Divorced/Separated,Bachelor degree,Employed full time,5,3,.2,2.7,40
-competition,3,6,Female,Married,Bachelor degree,Unemployed,4,4,.05,2.1,28
-competition,129,6,Male,Single,Bachelor degree,Student,7,2,.2,3.3,21
-competition,140,4,Female,In a relationship,Bachelor degree,Unemployed,8,3,.2,3.3,22
-competition,50,1,Female,Married,Technical/vocational training,Unemployed,8,4,.2,3,64
-competition,95,5,Female,Single,Bachelor degree,Student,2,9,.05,1.9,20
-competition,49,2,Male,Married,Bachelor degree,Employed part time,4,9,.05,1.7,73
-competition,101,6,Female,Single,Master degree,Employed full time,7,5,.2,3.3,25
-competition,55,5,Female,In a relationship,Bachelor degree,Employed full time,11,2,.2,4,24
-competition,132,6,Female,Single,High school graduate,Employed part time,2,5,.05,2,20
-competition,129,4,Female,In a relationship,Bachelor degree,Employed full time,4,6,.05,1.9,30
-competition,131,6,Female,In a relationship,Bachelor degree,Unemployed,4,6,.05,2.1,29
-competition,59,4,Female,Married,Master degree,Employed part time,7,1,.2,3.1,37
-competition,120,3,Male,Single,Doctorate degree,Employed full time,3,5,.05,1.75,57
-competition,83,3,Female,In a relationship,Technical/vocational training,Employed full time,6,4,.2,2.8,25
-competition,155,5,Female,In a relationship,Doctorate degree,Employed full time,9,4,.2,3.6,29
-competition,22,4,Female,Married,Master degree,Employed part time,6,2,.2,2.9,37
-competition,166,4,Female,Single,Bachelor degree,Employed full time,6,6,.2,2.9,34
-competition,16,5,Male,In a relationship,High school graduate,Student,9,4,.2,3.6,21
-competition,95,3,Female,In a relationship,Bachelor degree,Employed part time,10,7,.2,3.6,39
-competition,145,4,Female,Widowed,Technical/vocational training,Retired,3,6,.05,1.85,86
-competition,181,1,Female,In a relationship,Technical/vocational training,Employed part time,3,13,.05,1.55,42
-competition,100,6,Female,In a relationship,Bachelor degree,Student,4,5,.05,2.1,24
-competition,30,6,Female,In a relationship,Bachelor degree,Employed full time,7,2,.2,3.3,30
-competition,130,2,Male,Single,High school graduate,Unemployed,4,4,.05,1.7,34
-competition,100,4,Male,Divorced/Separated,Technical/vocational training,Retired,5,3,.2,2.7,72
-competition,100,4,Male,Married,Bachelor degree,Employed part time,8,2,.2,3.3,38
-competition,99,4,Male,In a relationship,Master degree,Employed full time,8,4,.2,3.3,31
-competition,13,2,Male,Single,Technical/vocational training,Unemployed,25,4,.2,6.5,21
-competition,185,4,Male,In a relationship,High school graduate,Employed full time,0,15,.05,1.7,34
-competition,126,1,Female,Married,Bachelor degree,Employed part time,4,3,.05,1.6,32
-competition,100,5,Female,In a relationship,High school graduate,Employed full time,8,4,.2,3.4,31
-competition,129,4,Female,Married,Technical/vocational training,Unemployed,2,3,.05,1.8,54
-competition,80,2,Male,Married,Bachelor degree,Employed full time,6,3,.2,2.7,64
-competition,77,4,Male,In a relationship,High school graduate,Employed full time,10,5,.2,3.7,26
-competition,110,5,Male,Single,Doctorate degree,Employed full time,9,4,.2,3.6,54
-competition,167,1,Female,Married,Bachelor degree,Employed full time,1,18,.05,1.45,34
-competition,100,3,Male,In a relationship,High school graduate,Employed part time,7,2,.2,3,18
-competition,164,6,Female,Married,Technical/vocational training,Employed part time,5,5,.2,2.9,68
-competition,106,5,Female,In a relationship,Bachelor degree,Student,6,5,.2,3,19
-competition,113,5,Male,Single,Bachelor degree,Employed full time,6,8,.2,3,29
-competition,100,3,Female,Married,High school graduate,Employed part time,7,5,.2,3,32
-competition,145,4,Female,In a relationship,Technical/vocational training,Employed full time,3,6,.05,1.85,26
-competition,43,5,Female,Married,Bachelor degree,Unemployed,3,12,.05,1.95,36
-competition,157,1,Male,Single,High school graduate,Student,4,2,.05,1.6,20
-competition,150,1,Male,In a relationship,Master degree,Employed part time,8,5,.2,3,55
-competition,159,2,Female,Married,Bachelor degree,Employed part time,6,15,.2,2.7,51
-competition,40,5,Female,In a relationship,Master degree,Employed part time,7,4,.2,3.2,23
-competition,163,6,Female,Married,Bachelor degree,Employed part time,8,4,.2,3.5,57
-competition,75,1,Female,Single,Bachelor degree,Employed full time,11,2,.2,3.6,26
-competition,150,5,Female,Married,Bachelor degree,Unemployed,6,9,.2,3,38
-competition,50,2,Female,Married,Less than high school,Unemployed,0,7,.05,1.5,36
-competition,113,4,Male,Married,High school graduate,Retired,0,12,.05,1.7,70
-competition,80,1,Male,In a relationship,Doctorate degree,Employed full time,9,5,.2,3.2,27
-competition,150,4,Female,Single,Bachelor degree,Employed part time,4,5,.05,1.9,22
-competition,101,6,Female,Married,Bachelor degree,Employed part time,5,9,.2,2.9,40
-competition,170,5,Female,Widowed,Technical/vocational training,Unemployed,6,1,.2,3,50
-competition,80,2,Male,In a relationship,Technical/vocational training,Employed full time,7,4,.2,2.9,25
-competition,62,3,Male,Married,High school graduate,Employed full time,5,5,.2,2.6,59
-competition,166,6,Male,Single,High school graduate,Student,6,12,.2,3.1,19
-competition,100,6,Male,Single,High school graduate,Employed full time,6,10,.2,3.1,29
-competition,60,4,Male,Single,High school graduate,Student,11,0,.2,3.9,21
-competition,61,6,Female,In a relationship,High school graduate,Employed part time,4,2,.05,2.1,28
-competition,100,2,Male,In a relationship,Doctorate degree,Employed full time,4,4,.05,1.7,28
-competition,15,5,Male,Single,Technical/vocational training,Student,6,7,.2,3,20
-competition,60,3,Male,Single,Master degree,Student,8,0,.2,3.2,25
-competition,3,5,Female,Married,Technical/vocational training,Unemployed,0,10,.05,1.8,57
-competition,185,6,Female,In a relationship,High school graduate,Unemployed,3,4,.05,2.05,32
-competition,115,3,Female,In a relationship,Master degree,Employed part time,7,0,.2,3,23
-competition,101,5,Female,In a relationship,High school graduate,Employed full time,7,4,.2,3.2,27
-competition,28,5,Female,Divorced/Separated,Bachelor degree,Employed full time,0,19,.05,1.8,52
-competition,28,2,Female,Single,High school graduate,Unemployed,6,5,.2,2.7,20
-competition,70,5,Male,In a relationship,Master degree,Employed full time,8,6,.2,3.4,29
-competition,100,6,Female,Married,Master degree,Employed part time,10,1,.2,3.9,40
-competition,10,1,Male,Married,Bachelor degree,Employed full time,1,5,.05,1.45,57
-competition,199,6,Female,Divorced/Separated,Bachelor degree,Employed part time,4,9,.05,2.1,59
-competition,120,6,Male,In a relationship,Master degree,Student,6,8,.2,3.1,26
-competition,118,5,Female,Married,Doctorate degree,Employed part time,6,3,.2,3,40
-competition,63,6,Female,Single,High school graduate,Student,0,11,.05,1.9,24
-competition,59,4,Female,Single,Master degree,Employed full time,8,8,.2,3.3,29
-competition,153,3,Female,Single,High school graduate,Employed full time,8,6,.2,3.2,52
-competition,105,6,Female,Married,Technical/vocational training,Employed part time,4,6,.05,2.1,32
-competition,12,3,Female,Married,High school graduate,Employed full time,4,2,.05,1.8,29
-competition,170,2,Male,Divorced/Separated,Bachelor degree,Employed full time,6,5,.2,2.7,66
-competition,20,4,Male,Married,High school graduate,Retired,9,2,.2,3.5,64
-competition,100,5,Female,In a relationship,Technical/vocational training,Unemployed,7,5,.2,3.2,24
-competition,86,5,Male,Married,High school graduate,Employed full time,4,7,.05,2,58
-competition,99,3,Female,In a relationship,Technical/vocational training,Employed part time,7,2,.2,3,28
-competition,80,3,Male,Single,Bachelor degree,Employed full time,7,2,.2,3,20
-competition,120,6,Female,Divorced/Separated,Bachelor degree,Employed full time,7,8,.2,3.3,45
-competition,105,5,Female,Single,Bachelor degree,Employed part time,7,2,.2,3.2,22
-competition,151,4,Female,In a relationship,Bachelor degree,Employed full time,9,7,.2,3.5,32
-competition,89,2,Female,Married,Technical/vocational training,Employed part time,10,6,.2,3.5,38
-competition,36,4,Female,Married,Doctorate degree,Employed full time,12,5,.2,4.100000000000001,46
-competition,183,4,Female,Married,Master degree,Employed full time,4,11,.05,1.9,54
-competition,149,4,Female,Single,High school graduate,Student,6,5,.2,2.9,21
-competition,2,4,Female,In a relationship,High school graduate,Student,10,2,.2,3.7,21
-competition,25,5,Male,In a relationship,Bachelor degree,Employed part time,42,0,.2,10.2,32
-competition,80,6,Male,Single,Bachelor degree,Employed full time,6,3,.2,3.1,55
-competition,178,4,Male,Single,Bachelor degree,Student,7,1,.2,3.1,20
-competition,147,2,Female,In a relationship,Technical/vocational training,Unemployed,8,6,.2,3.100000000000001,35
-competition,102,5,Female,Single,Master degree,Employed full time,12,2,.2,4.2,29
-competition,62,5,Female,Single,High school graduate,Student,5,3,.2,2.8,21
-competition,130,4,Female,Single,Bachelor degree,Student,7,4,.2,3.1,21
-competition,75,5,Male,Divorced/Separated,High school graduate,Unemployed,9,1,.2,3.6,32
-competition,100,4,Male,Single,High school graduate,Employed full time,5,2,.2,2.7,36
-competition,127,6,Male,Single,High school graduate,Student,7,2,.2,3.3,20
-competition,133,5,Male,Single,High school graduate,Employed full time,8,2,.2,3.4,20
-competition,75,3,Female,Married,Technical/vocational training,Employed full time,9,5,.2,3.4,54
-competition,92,6,Female,Married,Bachelor degree,Employed full time,3,6,.05,2.05,40
-competition,102,3,Male,Single,Bachelor degree,Student,9,1,.2,3.4,21
-competition,80,5,Male,Married,Bachelor degree,Employed full time,11,3,.2,4,31
-competition,51,3,Female,Single,Bachelor degree,Employed full time,12,2,.2,4,55
-competition,199,6,Male,In a relationship,High school graduate,Employed part time,0,9,.05,1.9,25
-competition,35,6,Male,Married,High school graduate,Employed full time,6,5,.2,3.1,42
-competition,30,6,Male,Single,Bachelor degree,Unemployed,8,1,.2,3.5,33
-competition,70,4,Female,In a relationship,Bachelor degree,Employed full time,9,2,.2,3.5,42
-competition,85,4,Male,In a relationship,Bachelor degree,Student,5,6,.2,2.7,25
-competition,150,2,Male,Single,Master degree,Employed full time,7,2,.2,2.9,43
-competition,110,3,Female,In a relationship,High school graduate,Retired,3,9,.05,1.75,79
-competition,20,3,Male,Married,Bachelor degree,Employed full time,6,0,.2,2.8,41
-competition,100,5,Female,Single,High school graduate,Student,5,6,.2,2.8,19
-competition,50,6,Female,Single,Bachelor degree,Student,6,2,.2,3.1,24
-competition,52,4,Male,Single,High school graduate,Student,8,4,.2,3.3,20
-competition,150,6,Female,Single,High school graduate,Student,8,1,.2,3.5,19
-competition,38,4,Male,In a relationship,Bachelor degree,Employed full time,4,7,.05,1.9,40
-competition,125,3,Female,Single,High school graduate,Employed full time,5,6,.2,2.6,29
-competition,115,1,Female,Single,Bachelor degree,Employed part time,8,2,.2,3,21
-competition,88,6,Male,Single,Bachelor degree,Unemployed,9,5,.2,3.7,36
-competition,120,4,Male,Single,Bachelor degree,Employed full time,2,5,.05,1.8,31
-competition,100,4,Female,Single,Bachelor degree,Employed full time,6,8,.2,2.9,35
-competition,139,6,Male,In a relationship,Bachelor degree,Employed full time,8,8,.2,3.5,25
-competition,39,6,Female,Single,Bachelor degree,Employed part time,4,12,.05,2.1,23
-competition,35,6,Female,In a relationship,Bachelor degree,Employed full time,7,5,.2,3.3,23
-competition,72,5,Male,In a relationship,Bachelor degree,Employed full time,8,3,.2,3.4,46
-competition,59,2,Female,Married,Master degree,Employed part time,9,4,.2,3.3,24
-competition,110,4,Male,In a relationship,High school graduate,Employed full time,4,8,.05,1.9,25
-competition,100,3,Male,Single,High school graduate,Employed part time,7,7,.2,3,20
-competition,100,4,Male,In a relationship,Doctorate degree,Employed full time,8,5,.2,3.3,36
-competition,153,6,Male,In a relationship,High school graduate,Unemployed,2,8,.05,2,20
+treatment,piece_rate,payment,correct,wrong,belief,die_roll,age,gender,marital,education,employment
+No_competition,.05,2.2,6,12,0,6,32,Female,Single,Technical/vocational training,Employed part time
+No_competition,.2,3.3,8,10,105,4,21,Male,Single,High school graduate,Student
+No_competition,.05,2.05,7,3,99,4,23,Female,Single,High school graduate,Unemployed
+No_competition,.2,1.7,0,13,38,4,25,Female,In a relationship,Technical/vocational training,Employed part time
+No_competition,.05,2.15,5,3,68,6,21,Female,Single,High school graduate,Student
+No_competition,.05,1.6,0,6,197,3,23,Male,Single,High school graduate,Student
+No_competition,.2,3.3,8,6,160,4,20,Female,In a relationship,High school graduate,Student
+No_competition,.05,2.05,7,0,82,4,25,Male,Single,Master degree,Unemployed
+No_competition,.05,2.3,10,2,20,5,20,Male,In a relationship,High school graduate,Employed full time
+No_competition,.05,2.1,6,5,147,5,24,Female,In a relationship,Bachelor degree,Employed full time
+No_competition,.2,3.7,10,3,50,4,27,Female,In a relationship,Master degree,Employed full time
+No_competition,.05,2.05,5,5,50,5,23,Female,Single,Bachelor degree,Unemployed
+No_competition,.05,2.2,8,3,70,5,19,Male,Single,High school graduate,Unemployed
+No_competition,.05,1.7,4,9,170,2,33,Male,Single,Bachelor degree,Student
+No_competition,.2,1.7,0,17,195,4,30,Female,Single,Bachelor degree,Employed part time
+No_competition,.05,1.6,0,2,106,3,33,Female,Married,Bachelor degree,Employed full time
+No_competition,.05,1.85,3,1,100,4,26,Male,Married,Master degree,Employed full time
+No_competition,.2,3.1,7,4,95,4,28,Female,Single,Bachelor degree,Employed part time
+No_competition,.05,2.05,5,2,105,5,25,Female,In a relationship,Master degree,Unemployed
+No_competition,.05,2.25,7,5,22,6,21,Male,Single,High school graduate,Student
+No_competition,.05,2.2,8,4,80,5,21,Male,Single,High school graduate,Student
+No_competition,.05,1.95,3,4,100,5,22,Non-binary / third gender,Single,Bachelor degree,Student
+No_competition,.05,2.15,9,1,46,4,41,Female,Single,Bachelor degree,Employed part time
+No_competition,.05,1.85,7,10,100,2,32,Male,In a relationship,Master degree,Employed full time
+No_competition,.2,3.3,7,10,100,6,30,Female,Single,High school graduate,Unemployed
+No_competition,.05,2.1,4,4,160,6,32,Male,Single,High school graduate,Unemployed
+No_competition,.05,1.8,2,16,62,4,52,Female,Married,Technical/vocational training,Unemployed
+No_competition,.05,1.75,5,5,102,2,19,Non-binary / third gender,Single,High school graduate,Student
+No_competition,.05,2.1,8,7,128,4,20,Female,Single,High school graduate,Student
+No_competition,.2,3.8,12,6,125,1,47,Female,In a relationship,Bachelor degree,Employed full time
+No_competition,.05,2.15,5,3,170,6,29,Male,Married,Bachelor degree,Employed full time
+No_competition,.05,2.25,7,3,70,6,26,Male,Single,Bachelor degree,Employed full time
+No_competition,.05,2.2,10,0,96,4,40,Male,In a relationship,Bachelor degree,Unemployed
+No_competition,.05,2.1,6,9,135,5,30,Female,In a relationship,High school graduate,Employed part time
+No_competition,.05,1.85,7,2,30,2,20,Male,Single,High school graduate,Unemployed
+No_competition,.05,2.1,6,2,50,5,22,Male,In a relationship,Bachelor degree,Student
+No_competition,.2,2.7,5,6,100,4,35,Female,Single,Bachelor degree,Employed part time
+No_competition,.05,1.8,6,5,140,2,54,Male,Divorced/Separated,High school graduate,Unemployed
+No_competition,.05,1.9,8,3,55,2,20,Male,In a relationship,High school graduate,Student
+No_competition,.2,2.6,4,7,151,5,38,Female,Married,Bachelor degree,Employed part time
+No_competition,.05,2,10,7,83,2,28,Female,Single,Bachelor degree,Employed full time
+No_competition,.05,1.9,6,9,30,3,43,Male,Single,Master degree,Employed full time
+No_competition,.05,2.4,12,5,75,5,25,Male,In a relationship,Master degree,Unemployed
+No_competition,.05,2,10,6,70,2,39,Male,In a relationship,Doctorate degree,Employed full time
+No_competition,.2,3,6,6,79,5,20,Male,In a relationship,Bachelor degree,Student
+No_competition,.05,2.35,9,3,108,6,22,Female,Single,Bachelor degree,Employed full time
+No_competition,.2,3.3,8,1,93,4,35,Female,In a relationship,Technical/vocational training,Unemployed
+No_competition,.05,1.9,6,8,70,3,36,Female,Married,Master degree,Employed full time
+No_competition,.05,2.1,8,7,81,4,32,Male,In a relationship,Technical/vocational training,Employed full time
+No_competition,.2,2.6,4,3,85,5,21,Female,Single,High school graduate,Student
+No_competition,.05,1.75,7,9,41,1,38,Male,Divorced/Separated,Bachelor degree,Employed full time
+No_competition,.2,2.7,4,5,158,6,20,Female,Single,High school graduate,Student
+No_competition,.2,2.9,6,6,73,4,24,Female,In a relationship,Master degree,Student
+No_competition,.05,2.15,7,7,45,5,21,Male,Single,Bachelor degree,Employed part time
+No_competition,.05,2.25,11,1,75,4,28,Female,In a relationship,Technical/vocational training,Employed full time
+No_competition,.05,2.25,7,0,150,6,24,Male,Married,Bachelor degree,Employed full time
+No_competition,.05,2.05,5,10,50,5,21,Male,Single,High school graduate,Employed full time
+No_competition,.05,1.65,3,27,37,2,40,Male,Married,Master degree,Employed full time
+No_competition,.05,2.25,7,2,80,6,33,Male,In a relationship,Bachelor degree,Unemployed
+No_competition,.05,2.4,10,2,30,6,18,Non-binary / third gender,Single,High school graduate,Student
+No_competition,.05,1.95,9,2,100,2,24,Male,In a relationship,Master degree,Employed full time
+No_competition,.05,2.35,9,4,60,6,27,Female,In a relationship,High school graduate,Employed full time
+No_competition,.05,2.2,8,2,135,5,30,Male,In a relationship,Bachelor degree,Employed part time
+No_competition,.05,2.25,11,4,100,4,22,Female,Single,High school graduate,Student
+No_competition,.05,1.75,1,11,39,4,46,Male,Divorced/Separated,Bachelor degree,Employed full time
+No_competition,.05,1.95,9,3,150,2,27,Female,In a relationship,Bachelor degree,Employed full time
+No_competition,.05,1.75,5,6,110,2,26,Female,In a relationship,Technical/vocational training,Employed full time
+No_competition,.05,2.15,7,6,73,5,43,Female,Married,Bachelor degree,Employed full time
+No_competition,.2,2.6,5,4,129,3,55,Male,Married,High school graduate,Employed full time
+No_competition,.05,1.8,4,5,23,3,25,Female,In a relationship,Bachelor degree,Employed full time
+No_competition,.05,1.7,0,10,15,4,29,Female,Single,Bachelor degree,Employed part time
+No_competition,.05,1.9,4,6,107,4,19,Male,Single,High school graduate,Student
+No_competition,.05,2.3,8,3,25,6,26,Female,In a relationship,Master degree,Employed full time
+No_competition,.2,3.4,8,2,123,5,19,Male,Single,High school graduate,Student
+No_competition,.05,1.75,5,2,117,2,20,Female,Single,Bachelor degree,Student
+No_competition,.05,2.05,7,4,100,4,35,Female,Single,Bachelor degree,Employed full time
+No_competition,.2,3.4,8,3,111,5,20,Male,In a relationship,Bachelor degree,Student
+No_competition,.05,2.2,6,12,120,6,34,Male,In a relationship,Bachelor degree,Employed part time
+No_competition,.05,2.45,11,3,182,6,23,Female,Single,Bachelor degree,Employed part time
+No_competition,.05,2.2,8,5,116,5,28,Female,Single,High school graduate,Employed full time
+No_competition,.05,1.95,5,6,114,4,49,Male,Married,Technical/vocational training,Employed full time
+No_competition,.05,1.65,3,15,180,2,27,Male,In a relationship,Bachelor degree,Employed full time
+No_competition,.05,2.1,4,4,100,6,23,Male,In a relationship,Bachelor degree,Employed full time
+No_competition,.05,1.7,0,6,90,4,21,Female,Single,High school graduate,Student
+No_competition,.05,1.95,7,4,79,3,31,Female,In a relationship,Technical/vocational training,Unemployed
+No_competition,.05,2.2,8,2,62,5,24,Male,Single,High school graduate,Student
+No_competition,.05,2.2,8,4,68,5,21,Male,In a relationship,High school graduate,Student
+No_competition,.05,1.7,2,12,143,3,66,Male,Divorced/Separated,Bachelor degree,Employed full time
+No_competition,.05,1.85,3,6,179,4,27,Male,In a relationship,Master degree,Employed part time
+No_competition,.2,2.7,6,10,165,2,28,Non-binary / third gender,Single,Master degree,Employed full time
+No_competition,.05,1.95,5,2,55,4,29,Male,Married,Bachelor degree,Unemployed
+No_competition,.05,2.25,9,1,66,5,22,Male,In a relationship,High school graduate,Employed full time
+No_competition,.05,1.85,7,2,188,2,50,Female,Divorced/Separated,Bachelor degree,Employed part time
+No_competition,.05,2.2,8,1,119,5,24,Female,Single,Bachelor degree,Unemployed
+No_competition,.2,2.4,3,10,80,5,26,Female,Single,Technical/vocational training,Employed part time
+No_competition,.05,2.2,8,6,172,5,41,Female,Married,Master degree,Employed part time
+No_competition,.05,2.25,11,3,20,4,25,Male,In a relationship,Master degree,Employed full time
+No_competition,.05,2.1,8,4,39,4,51,Female,Divorced/Separated,Technical/vocational training,Retired
+No_competition,.2,2.4,5,5,122,1,28,Male,Single,Bachelor degree,Employed full time
+No_competition,.05,2.35,9,3,100,6,20,Male,In a relationship,Bachelor degree,Student
+No_competition,.05,2.2,6,2,84,6,42,Non-binary / third gender,Married,Bachelor degree,Employed part time
+No_competition,.05,2.2,6,5,165,6,46,Female,Single,Technical/vocational training,Unemployed
+No_competition,.2,3.3,7,0,100,6,28,Female,Single,Bachelor degree,Employed full time
+No_competition,.05,1.9,2,9,86,5,27,Female,Single,Bachelor degree,Unemployed
+No_competition,.05,1.95,3,5,190,5,51,Male,Married,High school graduate,Employed part time
+No_competition,.2,3.5,8,2,24,6,42,Female,In a relationship,Bachelor degree,Employed full time
+No_competition,.2,3.6,9,1,100,5,21,Male,Single,High school graduate,Student
+No_competition,.05,1.75,1,21,191,4,21,Female,In a relationship,High school graduate,Student
+No_competition,.2,2.8,6,2,10,3,20,Male,In a relationship,Bachelor degree,Employed part time
+No_competition,.05,1.95,3,9,12,5,40,Female,Married,High school graduate,Employed full time
+No_competition,.2,2.2,3,41,74,3,53,Female,Married,Bachelor degree,Employed part time
+No_competition,.05,1.85,9,1,99,1,25,Female,Single,Master degree,Employed full time
+No_competition,.05,2.3,8,3,60,6,23,Male,In a relationship,High school graduate,Employed full time
+No_competition,.2,3.4,8,3,50,5,35,Male,In a relationship,Technical/vocational training,Employed full time
+No_competition,.05,1.95,5,5,84,4,25,Female,Single,Bachelor degree,Student
+No_competition,.05,1.95,1,41,30,6,33,Female,Single,Bachelor degree,Employed part time
+No_competition,.05,1.9,4,5,122,4,27,Male,Single,Master degree,Employed part time
+No_competition,.2,3.6,9,2,166,5,33,Female,In a relationship,Bachelor degree,Employed full time
+No_competition,.05,1.8,8,2,160,1,41,Female,Married,Bachelor degree,Employed full time
+No_competition,.2,2.6,5,5,122,3,38,Male,Single,High school graduate,Retired
+No_competition,.2,2.7,6,10,135,2,43,Male,Married,High school graduate,Employed full time
+No_competition,.05,2.2,8,5,151,5,22,Female,In a relationship,Bachelor degree,Student
+No_competition,.2,3.1,7,4,111,4,24,Male,In a relationship,Bachelor degree,Student
+No_competition,.2,3.2,8,4,80,3,30,Female,In a relationship,Master degree,Employed full time
+No_competition,.05,2.05,5,10,80,5,26,Male,Single,Master degree,Employed full time
+No_competition,.2,3.3,8,3,150,4,28,Male,Single,Bachelor degree,Student
+No_competition,.05,2,8,5,65,3,29,Female,In a relationship,Bachelor degree,Employed full time
+No_competition,.2,2.1,2,6,186,4,39,Female,Single,Bachelor degree,Employed full time
+No_competition,.05,2.1,8,3,100,4,70,Female,Divorced/Separated,Doctorate degree,Retired
+No_competition,.05,2.05,3,20,170,6,35,Male,Married,Bachelor degree,Employed full time
+No_competition,.2,2.3,2,6,150,6,52,Male,Married,Bachelor degree,Employed full time
+No_competition,.05,2,2,12,175,6,42,Female,Single,Technical/vocational training,Employed full time
+No_competition,.05,1.95,7,8,128,3,53,Female,Married,Bachelor degree,Employed part time
+No_competition,.2,2.4,4,3,114,3,26,Female,Single,Bachelor degree,Employed part time
+No_competition,.05,2.1,8,4,40,4,21,Male,In a relationship,High school graduate,Employed part time
+No_competition,.05,1.95,5,10,116,4,48,Female,Married,Bachelor degree,Unemployed
+No_competition,.05,1.85,9,9,70,1,26,Male,Single,Technical/vocational training,Employed full time
+No_competition,.05,2.15,7,2,57,5,36,Female,Single,Master degree,Employed full time
+No_competition,.05,1.95,7,26,127,3,21,Male,In a relationship,High school graduate,Student
+No_competition,.05,2.05,9,1,100,3,28,Female,Single,Bachelor degree,Employed part time
+No_competition,.05,2,4,12,40,5,29,Female,Single,Bachelor degree,Employed full time
+No_competition,.2,1.7,0,10,113,4,20,Female,Single,High school graduate,Student
+No_competition,.05,2.35,11,9,70,5,67,Female,Married,Less than high school,Retired
+No_competition,.05,1.9,2,9,88,5,68,Male,In a relationship,Master degree,Employed full time
+No_competition,.05,1.6,0,9,0,3,45,Male,Married,Master degree,Employed full time
+No_competition,.05,2,6,11,120,4,22,Female,Single,High school graduate,Employed part time
+No_competition,.2,1.8,2,11,41,1,57,Female,Married,Technical/vocational training,Unemployed
+No_competition,.05,1.85,5,14,125,3,20,Female,Single,High school graduate,Employed part time
+No_competition,.2,2.6,5,4,100,3,45,Female,In a relationship,Technical/vocational training,Employed full time
+No_competition,.2,2.6,5,6,117,3,24,Female,In a relationship,Master degree,Employed full time
+No_competition,.05,2.15,5,7,150,6,55,Female,Single,Bachelor degree,Employed full time
+No_competition,.05,2,6,7,153,4,50,Female,Married,Master degree,Employed part time
+No_competition,.05,2.25,7,5,25,6,41,Male,In a relationship,Bachelor degree,Employed full time
+No_competition,.05,1.85,7,3,67,2,29,Female,Single,Technical/vocational training,Employed full time
+No_competition,.05,2.3,12,2,46,4,28,Female,Married,Bachelor degree,Employed full time
+No_competition,.2,1.8,0,17,15,5,50,Female,Single,Technical/vocational training,Retired
+No_competition,.05,2.45,11,2,88,6,22,Male,Single,Bachelor degree,Employed part time
+No_competition,.05,2.15,9,5,114,4,20,Female,In a relationship,High school graduate,Student
+No_competition,.05,1.95,7,5,80,3,22,Female,In a relationship,High school graduate,Student
+No_competition,.05,1.95,9,3,100,2,29,Male,Single,Bachelor degree,Employed full time
+No_competition,.2,2.4,5,2,175,1,52,Female,Married,Master degree,Employed part time
+No_competition,.05,1.7,4,5,100,2,25,Female,In a relationship,Bachelor degree,Student
+No_competition,.05,1.7,6,5,3,1,21,Female,In a relationship,High school graduate,Employed full time
+No_competition,.05,1.7,4,6,50,2,24,Male,Single,High school graduate,Unemployed
+No_competition,.05,1.95,5,3,97,4,26,Male,In a relationship,Bachelor degree,Employed part time
+No_competition,.2,2.9,5,7,80,6,38,Female,Married,High school graduate,Employed part time
+No_competition,.05,2.2,8,4,116,5,22,Female,In a relationship,Bachelor degree,Student
+No_competition,.2,2.3,2,8,160,6,26,Female,Single,Bachelor degree,Student
+No_competition,.05,2.25,7,1,10,6,28,Male,Single,Bachelor degree,Employed full time
+No_competition,.05,2.35,11,8,53,5,28,Female,Single,High school graduate,Employed full time
+No_competition,.05,2.1,6,5,130,5,19,Male,In a relationship,High school graduate,Student
+No_competition,.05,1.95,9,3,20,2,20,Female,Single,Bachelor degree,Student
+No_competition,.05,2.25,7,3,80,6,22,Male,In a relationship,Bachelor degree,Employed part time
+No_competition,.05,2,8,8,62,3,25,Female,Single,Bachelor degree,Employed part time
+No_competition,.05,2.05,7,5,41,4,26,Female,In a relationship,Master degree,Employed part time
+No_competition,.05,2,10,6,108,2,27,Female,Married,Master degree,Employed full time
+No_competition,.05,1.65,3,8,150,2,43,Male,In a relationship,Master degree,Employed full time
+No_competition,.05,1.5,2,7,110,1,64,Male,Married,Bachelor degree,Retired
+No_competition,.05,2.1,6,3,118,5,32,Female,Single,Bachelor degree,Employed full time
+No_competition,.2,4,11,3,30,5,20,Male,Single,Bachelor degree,Student
+No_competition,.05,2.05,11,8,144,2,30,Female,In a relationship,Master degree,Employed part time
+No_competition,.05,1.95,3,7,99,5,51,Female,Married,Master degree,Student
+No_competition,.05,1.4,0,14,99,1,44,Female,Married,Technical/vocational training,Employed part time
+No_competition,.05,2.2,6,6,50,6,46,Female,Married,Doctorate degree,Employed full time
+No_competition,.05,1.95,9,6,70,2,27,Male,In a relationship,High school graduate,Unemployed
+No_competition,.05,1.8,8,4,118,1,24,Female,In a relationship,Bachelor degree,Employed part time
+No_competition,.2,2.7,5,0,45,4,47,Male,Married,Bachelor degree,Employed full time
+No_competition,.05,1.8,4,6,57,3,41,Female,Single,Technical/vocational training,Employed part time
+No_competition,.05,2.1,6,3,107,5,39,Female,Married,Technical/vocational training,Employed full time
+No_competition,.05,2.25,7,1,112,6,30,Female,In a relationship,Master degree,Student
+No_competition,.05,1.95,1,13,37,6,25,Female,In a relationship,High school graduate,Student
+No_competition,.05,1.7,0,5,199,4,26,Female,In a relationship,Bachelor degree,Employed part time
+No_competition,.2,3.4,8,2,44,5,22,Female,In a relationship,Bachelor degree,Student
+No_competition,.05,1.95,5,7,42,4,20,Male,Single,High school graduate,Student
+No_competition,.05,2.45,11,5,20,6,30,Male,In a relationship,Bachelor degree,Employed full time
+No_competition,.05,2.05,9,7,120,3,47,Female,Married,High school graduate,Employed full time
+No_competition,.2,3,6,9,70,5,21,Female,In a relationship,High school graduate,Student
+No_competition,.05,1.7,6,3,63,1,19,Male,In a relationship,High school graduate,Student
+No_competition,.05,1.9,6,4,100,3,28,Male,In a relationship,Bachelor degree,Employed full time
+No_competition,.2,2.7,5,9,199,4,54,Male,Married,Technical/vocational training,Employed full time
+No_competition,.05,2.25,9,6,15,5,29,Male,In a relationship,Master degree,Employed full time
+No_competition,.05,1.75,3,2,55,3,27,Male,Single,Bachelor degree,Student
+No_competition,.05,1.4,0,62,33,1,28,Female,Single,Bachelor degree,Unemployed
+No_competition,.05,2.3,8,3,93,6,37,Female,Married,Bachelor degree,Employed full time
+No_competition,.2,3.7,9,5,110,6,28,Female,Married,Bachelor degree,Employed full time
+No_competition,.05,2.25,9,5,131,5,22,Female,Single,Bachelor degree,Employed full time
+No_competition,.05,2.05,5,2,80,5,29,Male,Single,Bachelor degree,Unemployed
+No_competition,.05,2.05,3,4,120,6,22,Female,In a relationship,Master degree,Employed full time
+No_competition,.05,2.05,5,3,120,5,32,Female,Single,Bachelor degree,Employed full time
+competition,.05,1.85,3,14,197,4,60,Male,Married,High school graduate,Employed full time
+competition,.2,2.9,6,1,5,4,19,Male,In a relationship,High school graduate,Student
+competition,.2,3.3,7,4,18,6,20,Male,Single,High school graduate,Student
+competition,.2,3.5,9,2,166,4,37,Female,Single,Technical/vocational training,Employed full time
+competition,.05,1.9,0,15,30,6,34,Female,In a relationship,Bachelor degree,Unemployed
+competition,.05,1.8,2,14,162,4,24,Male,In a relationship,Less than high school,Unemployed
+competition,.2,3.3,7,2,18,6,55,Female,Married,Technical/vocational training,Employed full time
+competition,.2,3.1,7,4,120,4,23,Female,In a relationship,Technical/vocational training,Employed full time
+competition,.05,2.05,3,8,180,6,62,Female,Married,Technical/vocational training,Retired
+competition,.2,3.2,8,8,175,3,26,Male,Single,Less than high school,Unemployed
+competition,.2,3.6,10,6,184,3,27,Female,In a relationship,Bachelor degree,Employed full time
+competition,.05,1.7,4,8,97,2,50,Male,In a relationship,High school graduate,Employed full time
+competition,.2,3.1,6,4,35,6,46,Male,Married,Bachelor degree,Employed full time
+competition,.2,3,6,3,162,5,33,Female,Single,High school graduate,Employed part time
+competition,.2,4.600000000000001,14,4,35,5,20,Male,Single,High school graduate,Student
+competition,.05,1.6,0,5,20,3,32,Female,Single,Bachelor degree,Employed full time
+competition,.05,1.8,2,7,100,4,28,Female,In a relationship,Master degree,Employed full time
+competition,.2,2.8,7,3,100,1,25,Female,In a relationship,Doctorate degree,Employed full time
+competition,.2,3.5,8,2,50,6,20,Female,Single,Technical/vocational training,Student
+competition,.2,3.2,8,1,50,3,24,Male,Single,Bachelor degree,Unemployed
+competition,.2,3,8,9,35,1,23,Female,In a relationship,Master degree,Student
+competition,.05,1.9,2,27,132,5,23,Male,Single,Bachelor degree,Student
+competition,.2,4.300000000000001,13,1,15,4,23,Female,In a relationship,High school graduate,Student
+competition,.2,3.2,7,3,182,5,25,Male,In a relationship,High school graduate,Employed part time
+competition,.2,3.3,7,11,53,6,50,Male,Single,Master degree,Employed full time
+competition,.2,3.1,7,3,50,4,47,Female,Married,Technical/vocational training,Unemployed
+competition,.2,3,8,4,5,1,22,Female,Single,Bachelor degree,Student
+competition,.2,4.500000000000001,14,5,30,4,20,Female,Single,High school graduate,Student
+competition,.05,2.05,3,7,60,6,37,Female,Married,Doctorate degree,Employed full time
+competition,.2,2.9,6,2,82,4,24,Male,Single,Bachelor degree,Unemployed
+competition,.2,3.9,12,2,69,2,19,Non-binary / third gender,Single,High school graduate,Employed part time
+competition,.05,2.1,4,8,61,6,23,Female,Single,Bachelor degree,Employed full time
+competition,.2,3.2,7,6,25,5,35,Female,In a relationship,Doctorate degree,Employed full time
+competition,.2,3.3,7,2,149,6,44,Female,Married,Master degree,Employed full time
+competition,.2,3.2,8,3,35,3,35,Male,Single,Master degree,Employed full time
+competition,.2,3.7,9,12,50,6,40,Female,Married,Master degree,Employed part time
+competition,.05,1.5,2,4,100,1,28,Female,In a relationship,Bachelor degree,Employed full time
+competition,.05,2.1,4,7,48,6,26,Female,In a relationship,Technical/vocational training,Unemployed
+competition,.2,3.3,8,3,106,4,21,Female,In a relationship,Bachelor degree,Employed part time
+competition,.2,4.300000000000001,12,3,40,6,21,Male,In a relationship,High school graduate,Employed full time
+competition,.2,2.8,5,6,101,5,66,Male,Married,Technical/vocational training,Retired
+competition,.2,3,6,2,150,5,25,Female,In a relationship,Bachelor degree,Student
+competition,.2,3.2,7,3,75,5,21,Male,Single,High school graduate,Student
+competition,.2,3.8,10,2,60,5,22,Male,Single,High school graduate,Student
+competition,.2,2.7,6,2,100,2,23,Non-binary / third gender,In a relationship,Bachelor degree,Student
+competition,.2,2.8,7,2,80,1,40,Female,In a relationship,Master degree,Employed part time
+competition,.2,3.9,12,4,22,2,36,Male,Married,Technical/vocational training,Employed full time
+competition,.2,4.2,12,1,15,5,20,Male,In a relationship,High school graduate,Student
+competition,.05,1.7,0,9,0,4,27,Female,In a relationship,Bachelor degree,Employed full time
+competition,.05,1.7,2,7,43,3,27,Male,Single,Bachelor degree,Employed part time
+competition,.05,2.1,4,9,40,6,35,Male,Married,Master degree,Employed full time
+competition,.2,3.1,6,2,80,6,29,Male,Married,Bachelor degree,Employed full time
+competition,.2,3,7,1,90,3,24,Female,In a relationship,Bachelor degree,Unemployed
+competition,.2,3.3,8,11,150,4,34,Male,In a relationship,Bachelor degree,Employed full time
+competition,.05,1.6,2,4,144,2,30,Female,Single,High school graduate,Employed full time
+competition,.2,3.3,7,4,55,6,24,Female,Single,Bachelor degree,Employed part time
+competition,.05,1.9,4,6,166,4,67,Female,Married,High school graduate,Retired
+competition,.2,3.9,10,3,100,6,28,Male,In a relationship,Master degree,Employed full time
+competition,.2,3.4,8,0,170,5,29,Female,Single,Bachelor degree,Unemployed
+competition,.05,1.7,0,11,8,4,43,Female,Married,Bachelor degree,Employed full time
+competition,.2,2.5,5,11,120,2,40,Female,Married,Master degree,Employed part time
+competition,.2,2.8,7,10,166,1,39,Male,Single,High school graduate,Employed full time
+competition,.2,3.3,7,5,96,6,27,Female,In a relationship,Bachelor degree,Employed full time
+competition,.2,3.6,10,5,140,3,23,Female,Single,Bachelor degree,Employed full time
+competition,.2,2.6,5,6,199,3,28,Female,In a relationship,High school graduate,Employed full time
+competition,.2,3.1,6,8,140,6,48,Male,Single,Bachelor degree,Unemployed
+competition,.2,3.2,7,4,65,5,36,Female,Married,Technical/vocational training,Unemployed
+competition,.2,3.100000000000001,8,4,131,2,41,Female,Married,High school graduate,Unemployed
+competition,.05,1.65,1,6,170,3,49,Female,Married,High school graduate,Employed full time
+competition,.05,1.85,3,4,115,4,38,Male,In a relationship,Technical/vocational training,Employed part time
+competition,.2,2.9,6,5,132,4,31,Male,Married,Technical/vocational training,Employed full time
+competition,.2,3.2,7,9,158,5,48,Female,Married,Bachelor degree,Employed part time
+competition,.05,1.6,0,10,10,3,34,Female,Single,Less than high school,Unemployed
+competition,.05,1.6,2,18,26,2,31,Female,Single,Bachelor degree,Employed part time
+competition,.2,3.1,7,3,100,4,28,Male,Single,Bachelor degree,Employed full time
+competition,.2,3.5,8,3,100,6,43,Female,Married,High school graduate,Employed full time
+competition,.05,1.85,1,9,191,5,34,Female,Married,High school graduate,Employed full time
+competition,.05,1.75,1,5,165,4,32,Male,Single,High school graduate,Employed part time
+competition,.2,2.9,6,11,120,4,32,Male,Married,Bachelor degree,Employed full time
+competition,.2,3.5,9,7,50,4,38,Non-binary / third gender,In a relationship,Master degree,Employed full time
+competition,.2,3.1,7,2,60,4,19,Male,Single,High school graduate,Employed part time
+competition,.2,3.4,8,10,160,5,26,Female,Single,Master degree,Employed full time
+competition,.2,3.1,7,2,100,4,30,Male,Single,Bachelor degree,Unemployed
+competition,.2,2.7,5,3,39,4,40,Female,Divorced/Separated,Bachelor degree,Employed full time
+competition,.05,2.1,4,4,3,6,28,Female,Married,Bachelor degree,Unemployed
+competition,.2,3.3,7,2,129,6,21,Male,Single,Bachelor degree,Student
+competition,.2,3.3,8,3,140,4,22,Female,In a relationship,Bachelor degree,Unemployed
+competition,.2,3,8,4,50,1,64,Female,Married,Technical/vocational training,Unemployed
+competition,.05,1.9,2,9,95,5,20,Female,Single,Bachelor degree,Student
+competition,.05,1.7,4,9,49,2,73,Male,Married,Bachelor degree,Employed part time
+competition,.2,3.3,7,5,101,6,25,Female,Single,Master degree,Employed full time
+competition,.2,4,11,2,55,5,24,Female,In a relationship,Bachelor degree,Employed full time
+competition,.05,2,2,5,132,6,20,Female,Single,High school graduate,Employed part time
+competition,.05,1.9,4,6,129,4,30,Female,In a relationship,Bachelor degree,Employed full time
+competition,.05,2.1,4,6,131,6,29,Female,In a relationship,Bachelor degree,Unemployed
+competition,.2,3.1,7,1,59,4,37,Female,Married,Master degree,Employed part time
+competition,.05,1.75,3,5,120,3,57,Male,Single,Doctorate degree,Employed full time
+competition,.2,2.8,6,4,83,3,25,Female,In a relationship,Technical/vocational training,Employed full time
+competition,.2,3.6,9,4,155,5,29,Female,In a relationship,Doctorate degree,Employed full time
+competition,.2,2.9,6,2,22,4,37,Female,Married,Master degree,Employed part time
+competition,.2,2.9,6,6,166,4,34,Female,Single,Bachelor degree,Employed full time
+competition,.2,3.6,9,4,16,5,21,Male,In a relationship,High school graduate,Student
+competition,.2,3.6,10,7,95,3,39,Female,In a relationship,Bachelor degree,Employed part time
+competition,.05,1.85,3,6,145,4,86,Female,Widowed,Technical/vocational training,Retired
+competition,.05,1.55,3,13,181,1,42,Female,In a relationship,Technical/vocational training,Employed part time
+competition,.05,2.1,4,5,100,6,24,Female,In a relationship,Bachelor degree,Student
+competition,.2,3.3,7,2,30,6,30,Female,In a relationship,Bachelor degree,Employed full time
+competition,.05,1.7,4,4,130,2,34,Male,Single,High school graduate,Unemployed
+competition,.2,2.7,5,3,100,4,72,Male,Divorced/Separated,Technical/vocational training,Retired
+competition,.2,3.3,8,2,100,4,38,Male,Married,Bachelor degree,Employed part time
+competition,.2,3.3,8,4,99,4,31,Male,In a relationship,Master degree,Employed full time
+competition,.2,6.5,25,4,13,2,21,Male,Single,Technical/vocational training,Unemployed
+competition,.05,1.7,0,15,185,4,34,Male,In a relationship,High school graduate,Employed full time
+competition,.05,1.6,4,3,126,1,32,Female,Married,Bachelor degree,Employed part time
+competition,.2,3.4,8,4,100,5,31,Female,In a relationship,High school graduate,Employed full time
+competition,.05,1.8,2,3,129,4,54,Female,Married,Technical/vocational training,Unemployed
+competition,.2,2.7,6,3,80,2,64,Male,Married,Bachelor degree,Employed full time
+competition,.2,3.7,10,5,77,4,26,Male,In a relationship,High school graduate,Employed full time
+competition,.2,3.6,9,4,110,5,54,Male,Single,Doctorate degree,Employed full time
+competition,.05,1.45,1,18,167,1,34,Female,Married,Bachelor degree,Employed full time
+competition,.2,3,7,2,100,3,18,Male,In a relationship,High school graduate,Employed part time
+competition,.2,2.9,5,5,164,6,68,Female,Married,Technical/vocational training,Employed part time
+competition,.2,3,6,5,106,5,19,Female,In a relationship,Bachelor degree,Student
+competition,.2,3,6,8,113,5,29,Male,Single,Bachelor degree,Employed full time
+competition,.2,3,7,5,100,3,32,Female,Married,High school graduate,Employed part time
+competition,.05,1.85,3,6,145,4,26,Female,In a relationship,Technical/vocational training,Employed full time
+competition,.05,1.95,3,12,43,5,36,Female,Married,Bachelor degree,Unemployed
+competition,.05,1.6,4,2,157,1,20,Male,Single,High school graduate,Student
+competition,.2,3,8,5,150,1,55,Male,In a relationship,Master degree,Employed part time
+competition,.2,2.7,6,15,159,2,51,Female,Married,Bachelor degree,Employed part time
+competition,.2,3.2,7,4,40,5,23,Female,In a relationship,Master degree,Employed part time
+competition,.2,3.5,8,4,163,6,57,Female,Married,Bachelor degree,Employed part time
+competition,.2,3.6,11,2,75,1,26,Female,Single,Bachelor degree,Employed full time
+competition,.2,3,6,9,150,5,38,Female,Married,Bachelor degree,Unemployed
+competition,.05,1.5,0,7,50,2,36,Female,Married,Less than high school,Unemployed
+competition,.05,1.7,0,12,113,4,70,Male,Married,High school graduate,Retired
+competition,.2,3.2,9,5,80,1,27,Male,In a relationship,Doctorate degree,Employed full time
+competition,.05,1.9,4,5,150,4,22,Female,Single,Bachelor degree,Employed part time
+competition,.2,2.9,5,9,101,6,40,Female,Married,Bachelor degree,Employed part time
+competition,.2,3,6,1,170,5,50,Female,Widowed,Technical/vocational training,Unemployed
+competition,.2,2.9,7,4,80,2,25,Male,In a relationship,Technical/vocational training,Employed full time
+competition,.2,2.6,5,5,62,3,59,Male,Married,High school graduate,Employed full time
+competition,.2,3.1,6,12,166,6,19,Male,Single,High school graduate,Student
+competition,.2,3.1,6,10,100,6,29,Male,Single,High school graduate,Employed full time
+competition,.2,3.9,11,0,60,4,21,Male,Single,High school graduate,Student
+competition,.05,2.1,4,2,61,6,28,Female,In a relationship,High school graduate,Employed part time
+competition,.05,1.7,4,4,100,2,28,Male,In a relationship,Doctorate degree,Employed full time
+competition,.2,3,6,7,15,5,20,Male,Single,Technical/vocational training,Student
+competition,.2,3.2,8,0,60,3,25,Male,Single,Master degree,Student
+competition,.05,1.8,0,10,3,5,57,Female,Married,Technical/vocational training,Unemployed
+competition,.05,2.05,3,4,185,6,32,Female,In a relationship,High school graduate,Unemployed
+competition,.2,3,7,0,115,3,23,Female,In a relationship,Master degree,Employed part time
+competition,.2,3.2,7,4,101,5,27,Female,In a relationship,High school graduate,Employed full time
+competition,.05,1.8,0,19,28,5,52,Female,Divorced/Separated,Bachelor degree,Employed full time
+competition,.2,2.7,6,5,28,2,20,Female,Single,High school graduate,Unemployed
+competition,.2,3.4,8,6,70,5,29,Male,In a relationship,Master degree,Employed full time
+competition,.2,3.9,10,1,100,6,40,Female,Married,Master degree,Employed part time
+competition,.05,1.45,1,5,10,1,57,Male,Married,Bachelor degree,Employed full time
+competition,.05,2.1,4,9,199,6,59,Female,Divorced/Separated,Bachelor degree,Employed part time
+competition,.2,3.1,6,8,120,6,26,Male,In a relationship,Master degree,Student
+competition,.2,3,6,3,118,5,40,Female,Married,Doctorate degree,Employed part time
+competition,.05,1.9,0,11,63,6,24,Female,Single,High school graduate,Student
+competition,.2,3.3,8,8,59,4,29,Female,Single,Master degree,Employed full time
+competition,.2,3.2,8,6,153,3,52,Female,Single,High school graduate,Employed full time
+competition,.05,2.1,4,6,105,6,32,Female,Married,Technical/vocational training,Employed part time
+competition,.05,1.8,4,2,12,3,29,Female,Married,High school graduate,Employed full time
+competition,.2,2.7,6,5,170,2,66,Male,Divorced/Separated,Bachelor degree,Employed full time
+competition,.2,3.5,9,2,20,4,64,Male,Married,High school graduate,Retired
+competition,.2,3.2,7,5,100,5,24,Female,In a relationship,Technical/vocational training,Unemployed
+competition,.05,2,4,7,86,5,58,Male,Married,High school graduate,Employed full time
+competition,.2,3,7,2,99,3,28,Female,In a relationship,Technical/vocational training,Employed part time
+competition,.2,3,7,2,80,3,20,Male,Single,Bachelor degree,Employed full time
+competition,.2,3.3,7,8,120,6,45,Female,Divorced/Separated,Bachelor degree,Employed full time
+competition,.2,3.2,7,2,105,5,22,Female,Single,Bachelor degree,Employed part time
+competition,.2,3.5,9,7,151,4,32,Female,In a relationship,Bachelor degree,Employed full time
+competition,.2,3.5,10,6,89,2,38,Female,Married,Technical/vocational training,Employed part time
+competition,.2,4.100000000000001,12,5,36,4,46,Female,Married,Doctorate degree,Employed full time
+competition,.05,1.9,4,11,183,4,54,Female,Married,Master degree,Employed full time
+competition,.2,2.9,6,5,149,4,21,Female,Single,High school graduate,Student
+competition,.2,3.7,10,2,2,4,21,Female,In a relationship,High school graduate,Student
+competition,.2,10.2,42,0,25,5,32,Male,In a relationship,Bachelor degree,Employed part time
+competition,.2,3.1,6,3,80,6,55,Male,Single,Bachelor degree,Employed full time
+competition,.2,3.1,7,1,178,4,20,Male,Single,Bachelor degree,Student
+competition,.2,3.100000000000001,8,6,147,2,35,Female,In a relationship,Technical/vocational training,Unemployed
+competition,.2,4.2,12,2,102,5,29,Female,Single,Master degree,Employed full time
+competition,.2,2.8,5,3,62,5,21,Female,Single,High school graduate,Student
+competition,.2,3.1,7,4,130,4,21,Female,Single,Bachelor degree,Student
+competition,.2,3.6,9,1,75,5,32,Male,Divorced/Separated,High school graduate,Unemployed
+competition,.2,2.7,5,2,100,4,36,Male,Single,High school graduate,Employed full time
+competition,.2,3.3,7,2,127,6,20,Male,Single,High school graduate,Student
+competition,.2,3.4,8,2,133,5,20,Male,Single,High school graduate,Employed full time
+competition,.2,3.4,9,5,75,3,54,Female,Married,Technical/vocational training,Employed full time
+competition,.05,2.05,3,6,92,6,40,Female,Married,Bachelor degree,Employed full time
+competition,.2,3.4,9,1,102,3,21,Male,Single,Bachelor degree,Student
+competition,.2,4,11,3,80,5,31,Male,Married,Bachelor degree,Employed full time
+competition,.2,4,12,2,51,3,55,Female,Single,Bachelor degree,Employed full time
+competition,.05,1.9,0,9,199,6,25,Male,In a relationship,High school graduate,Employed part time
+competition,.2,3.1,6,5,35,6,42,Male,Married,High school graduate,Employed full time
+competition,.2,3.5,8,1,30,6,33,Male,Single,Bachelor degree,Unemployed
+competition,.2,3.5,9,2,70,4,42,Female,In a relationship,Bachelor degree,Employed full time
+competition,.2,2.7,5,6,85,4,25,Male,In a relationship,Bachelor degree,Student
+competition,.2,2.9,7,2,150,2,43,Male,Single,Master degree,Employed full time
+competition,.05,1.75,3,9,110,3,79,Female,In a relationship,High school graduate,Retired
+competition,.2,2.8,6,0,20,3,41,Male,Married,Bachelor degree,Employed full time
+competition,.2,2.8,5,6,100,5,19,Female,Single,High school graduate,Student
+competition,.2,3.1,6,2,50,6,24,Female,Single,Bachelor degree,Student
+competition,.2,3.3,8,4,52,4,20,Male,Single,High school graduate,Student
+competition,.2,3.5,8,1,150,6,19,Female,Single,High school graduate,Student
+competition,.05,1.9,4,7,38,4,40,Male,In a relationship,Bachelor degree,Employed full time
+competition,.2,2.6,5,6,125,3,29,Female,Single,High school graduate,Employed full time
+competition,.2,3,8,2,115,1,21,Female,Single,Bachelor degree,Employed part time
+competition,.2,3.7,9,5,88,6,36,Male,Single,Bachelor degree,Unemployed
+competition,.05,1.8,2,5,120,4,31,Male,Single,Bachelor degree,Employed full time
+competition,.2,2.9,6,8,100,4,35,Female,Single,Bachelor degree,Employed full time
+competition,.2,3.5,8,8,139,6,25,Male,In a relationship,Bachelor degree,Employed full time
+competition,.05,2.1,4,12,39,6,23,Female,Single,Bachelor degree,Employed part time
+competition,.2,3.3,7,5,35,6,23,Female,In a relationship,Bachelor degree,Employed full time
+competition,.2,3.4,8,3,72,5,46,Male,In a relationship,Bachelor degree,Employed full time
+competition,.2,3.3,9,4,59,2,24,Female,Married,Master degree,Employed part time
+competition,.05,1.9,4,8,110,4,25,Male,In a relationship,High school graduate,Employed full time
+competition,.2,3,7,7,100,3,20,Male,Single,High school graduate,Employed part time
+competition,.2,3.3,8,5,100,4,36,Male,In a relationship,Doctorate degree,Employed full time
+competition,.05,2,2,8,153,6,20,Male,In a relationship,High school graduate,Unemployed
