@@ -13,7 +13,7 @@ The analysis was conducted using ```Stata 17```.
 
 ### Files
 
-The files are stored in three folders: Data, which contains data from the experiment, Stata, which contains the Stata code to produce every result in the paper, and Qualtrics, which contains the exported experimental software.
+The files are stored in two folders: Data, which contains data from the experiment, and Stata, which contains the Stata code to produce every result in the paper..
 
 1. Data
    * Experimental Data.csv (*The raw data from the experiment in csv format*)
@@ -23,7 +23,6 @@ The files are stored in three folders: Data, which contains data from the experi
    * Prepare Raw Data.do (*Cleans raw experimental data and prepares it for analysis*)
 <!-- * Main Effect.do (*Produces the main result of Subsection 3.1, and Figure 1*)
    * Econometric Estimation.do (*Produces the results of Subsection 3.2, and Table 1*)-->
-3. Qualtrics   
 
 ### Instructions
 To run the code, you only need to run **Data Analysis.do**.
