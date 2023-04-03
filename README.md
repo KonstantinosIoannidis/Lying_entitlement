@@ -21,13 +21,8 @@ The files are stored in three folders: Data, which contains data from the experi
 2. Stata
    * Data Analysis.do (*Calls and executes all other files*)
    * Prepare Raw Data.do (*Cleans raw experimental data and prepares it for analysis*)
-<!--    * Main Effect.do (*Produces the main result of Subsection 3.1, Table 1 and Figure 1*)
-   * Robustness.do (*Produces the robustness checks from the end of Subsection 3.1*)
-   * Direction.do (*Produces results of Subsection 3.2 and Figure 2*)
-   * Magnitude.do (*Produces Table 2*)
-   * Power Analysis (*Produces results for first paragraph of Section 4*)
-   * Prepare Raw Data.do (*Cleans raw meta data and prepares it for analysis*)
-   * Meta Analysis.do (*Produces Table 3 and Figure 3*) -->
+<!-- * Main Effect.do (*Produces the main result of Subsection 3.1, and Figure 1*)
+   * Econometric Estimation.do (*Produces the results of Subsection 3.2, and Table 1*)-->
 3. Qualtrics   
 
 ### Instructions
