@@ -20,8 +20,7 @@ The files are stored in two folders: Data, which contains data from the experime
    * Experimental Codebook.md (*Codebook for ```Experimental Data.csv```*)
 2. Stata
    * Data Analysis.do (*Calls and executes all other files*)
-   * Prepare Raw Data.do (*Cleans raw experimental data and prepares it for analysis*)
-<!-- * Main Effect.do (*Produces the main result of Subsection 3.1, and Figure 1*)
+   * Main Effect.do (*Produces the main result of Subsection 3.1, and Figure 1*)
    * Econometric Estimation.do (*Produces the results of Subsection 3.2, and Table 1*)-->
 
 ### Instructions
